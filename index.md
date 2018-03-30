@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+Open-Source-Softwareentwicklung
+===============================
 
-You can use the [editor on GitHub](https://github.com/uos-oss/oss2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*Ein Seminar der Universität Osnabrück im Sommersemester 2018.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [FLOSS-Projekte](projekte.md)
+- Themen
+- Beiträge zu FLOSS-Projekten
 
-### Markdown
+In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
+Aspekten des Themas „Freie Open Source Software“ erarbeitet werden.
+Verschiedene erfolgreiche Lizenzmodelle, Organisationsformen und Werkzeuge
+werden vorgestellt und in Strukturen eingeordnet, die in gemeinsamer Diskussion
+erarbeitet wurden.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Aufgaben
+--------
 
-# Header 1
-## Header 2
-### Header 3
+Um das Seminar erfolgreich abzuschließen müssen folgende Aufgaben erledigt
+werden:
 
-- Bulleted
-- List
+- Kurzvorstellung eines FLOSS-Projektes
+- Ausarbeitung und Vorstellung eines Themas im Bereich FLOSS-Software
+- Ein beliebiger beitrag zu einem FLOSS-Projekt und eine kurze Vorstellung des
+  Ablaufs
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Projekt-Lightningtalks (max. 10min)
+-----------------------------------
 
-[Link](url) and ![Image](src)
-```
+Im ersten Teil der Veranstaltung soll ein beliebiges FLOSS-Projekt vorgestellt
+werden: Was tut das Projekt, wie ist es entstanden, wie läuft die Entwickling
+ab, was für eine Lizenz wird genutzt, gibt es irgendetwas besonderes bei dem
+Projekt, …
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Eine kurze Zusammenfassung des Projektes soll bis innerhalb einer Woche nach
+dem Vortrag in die [Liste der Projekte](projekte.md) eingetragen werden.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uos-oss/oss2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Referate (max. 30min)
+---------------------
 
-### Support or Contact
+- Überblick: FLOSS-Lizenzen
+#- Lizenzvergleich: GPL, LGPL und AGPL
+- Entwickertools: Bugtracking, Bugs reporten
+- Entwicklertools: Kommunikation (Chat, Mails, Videokonferenzen)
+- Entwicklertools: Code- und Versionsverwaltung
+- FLOSS-Ökosysteme (Apache, Apereo, FSF, …)
+- Vorurteile und Vergleiche mit kommerzieller Software
+- FLOSS im kommerziellen Umfeldern
+- Motivation von Open-Source-Entwicklern
+- Entscheidungs- und Machtstrukturen
+#- Wie werden Commit-Rechte vergeben?
+- Wie kann ich zu Projekten beitragen: Nicht nur Code schreiben
+- Nicht nur Softwareentwicklung: Usability, Dokumentation und Marketing
+- Versionsnummern und Releasepolitik
+- Wie hängen Projekte voneinander ab?
+#- Forks: Projektspaltungen, deren Hintergründe und Auswirkungen
+- Open Source Events
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Projektbeitrag (max. 10min)
+---------------------------
+
+Es soll in beliebiger Form zu einem FLOSS-Projekt beigetragen werden und davon
+berichtet werden: Was war der Beitrag, wie wurde er eingereicht, wie wurde er
+angenommen, gab es Hürden, gab es Unterstützung, …
+
+
+Ausarbeitung
+------------
+
+Ziel ist es eine gemeinsame Dokumentation zu schaffen die einen Gesamtüberblick
+über das Ökosystem um Freie Open Source Software beschreibt. Dazu soll ein
+Unterpunkt unter Themen angelegt werden.
+
+Die Vortragenden sind jeweils für ihr Thema verantwortlich. Es dürfen aber
+gerne Pullrequests für ihr Thema angenommen werden bzw. Pullrequests für andere
+Teile der Dokumentation erstellt werden.
+
+Die Ausarbeitung der Themen soll eine Woche nach Dem Vortrag eingereicht
+werden. Wird der Vortrag aufgezeichnet, so reicht es aus den Vortrag zu
+verlinken und die Wochenfrist entfällt. Auch nach der einen Woche dürfen noch
+kleinere Verbesserungen an der Dokumentation vorgenommen werden.
+
+Die endgültige Ausarbeitung *aller* Themen muss zum Semesterende online sein.
+Es zählt dabei lediglich der Branch `master`. Offene Pullrequests, … werden
+nicht beachtet.
