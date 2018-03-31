@@ -4,8 +4,8 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-- [12. April 2018: ?](#)
-- [12. April 2018: ?](#)
+- [12. April 2018: Thema: Ein Überblick über FLOSS-Lizenzen](#FLOSS-Lizenzen) *(astiefvater)*
+- [12. April 2018: Kurzvorstellung eines Open-Surce-Projektes: The Rust Programming Language](#Rust) *(astiefvater)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
