@@ -6,6 +6,7 @@ Open-Source-Softwareentwicklung
 - [FLOSS-Projekte](projekte.md)
 - Themen
     - Informationen zum Seminar *(lkiesow)*
+    - Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
