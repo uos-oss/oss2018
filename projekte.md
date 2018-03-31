@@ -6,7 +6,7 @@
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
-- [12. April 2018: Exoplayer](#exoplayer)*(ashek)*
+- [12. April 2018: ExoPlayer](#exoplayer)*(ashek)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
