@@ -8,6 +8,7 @@ Open-Source-Softwareentwicklung
     - Informationen zum Seminar *(lkiesow)*
     - Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
     - FLOSS im kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
+    - Der Umgang mit Bugs *(ashek)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
