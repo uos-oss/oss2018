@@ -6,6 +6,7 @@ Open-Source-Softwareentwicklung
 - [FLOSS-Projekte](projekte.md)
 - Themen
     - Informationen zum Seminar *(lkiesow)*
+    - FLOSS im kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen

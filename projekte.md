@@ -4,7 +4,7 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-- [12. April 2018: ?](#)
+- [xx. April 2018: OpenSlides](#openslides) *(fistutzente)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
@@ -35,3 +35,18 @@ weltweit.
   ](https://github.com/opencast/opencast/blob/develop/LICENSE)
 - Codeverwaltung: [Github](https://github.com/opencast/opencast)
 - Issue-Tracker: [Jira](https://opencast.jira.com/secure/Dashboard.jspa)
+
+OpenSlides
+----------
+
+OpenSlides ist ein freies, webbasiertes Präsentations- und Versammlungssystem
+zur Verwaltung und Projizierung von Tagesordnung, Anträgen und Wahlen einer
+Versammlung.
+
+Entwickelt wird OpenSlides hauptsächlich von Mitarbeitern der [Intevation
+GmbH](https://intevation.de) und findet Einsatz auf großen Versammlungen in
+Deutschland.
+
+- Lizenz: [MIT](https://github.com/OpenSlides/OpenSlides/blob/master/LICENSE)
+- Codeverwaltung und Issue-Tracker:
+  [GitHub](https://github.com/OpenSlides/OpenSlides)
