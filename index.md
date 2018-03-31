@@ -6,6 +6,7 @@ Open-Source-Softwareentwicklung
 - [FLOSS-Projekte](projekte.md)
 - Themen
     - Informationen zum Seminar *(lkiesow)*
+    - Der Umgang mit Bugs *(ashek)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
