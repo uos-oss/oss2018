@@ -4,9 +4,8 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-- [??. ?? 2018: The Rust Programming Language](#Rust) *(astiefvater)*
-- [xx. April 2018: OpenSlides](#openslides) *(fistutzente)*
-- [12. April 2018: ?](#)
+- [12. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
+- [12. April 2018: OpenSlides](#openslides) *(fistutzente)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
