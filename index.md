@@ -9,6 +9,7 @@ Open-Source-Softwareentwicklung
     - Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
     - FLOSS im kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
     - Der Umgang mit Bugs *(ashek)*
+    - Motivation von Open-Source-Entwicklern *(pluettmann)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
