@@ -10,7 +10,7 @@
 - [12. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
-- [18. April 2018: ?](#)
+- [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
