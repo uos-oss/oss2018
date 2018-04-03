@@ -7,10 +7,10 @@
 - [12. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
 - [12. April 2018: OpenSlides](#openslides) *(fistutzente)*
 - [12. April 2018: ExoPlayer](#exoplayer)*(ashek)*
+- [12. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
-- [12. April 2018: ?](#)
-- [18. April 2018: ?](#)
+- [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
