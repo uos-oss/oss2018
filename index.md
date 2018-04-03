@@ -37,12 +37,12 @@ Projekt-Lightningtalks (max. 10min)
 -----------------------------------
 
 Im ersten Teil der Veranstaltung soll ein beliebiges FLOSS-Projekt vorgestellt
-werden: Was tut das Projekt, wie ist es entstanden, wie läuft die Entwickling
+werden: Was tut das Projekt, wie ist es entstanden, wie läuft die Entwicklung
 ab, was für eine Lizenz wird genutzt, gibt es irgendetwas besonderes bei dem
 Projekt, …
 
-Eine kurze Zusammenfassung des Projektes soll bis innerhalb einer Woche nach
-dem Vortrag in die [Liste der Projekte](projekte.md) eingetragen werden.
+Eine kurze Zusammenfassung des Projektes soll innerhalb einer Woche nach dem
+Vortrag in die [Liste der Projekte](projekte.md) eingetragen werden.
 
 
 Referate (max. 30min)
@@ -50,7 +50,7 @@ Referate (max. 30min)
 
 - **Ein Überblick über FLOSS-Lizenzen**: Was sind populäre Lizenzen? Was sind
   deren Unterschiede, sind bestimmte Lizenzen für bestimmte Dinge besonders gut
-  geeignet, warum überhaupt lizensieren, Beispiellizensierungen, …
+  geeignet, warum überhaupt lizenzieren, Beispiellizenzierungen, …
 - **Wie kann ich zu Projekten beitragen**: Was gibt es an Beiträgen (Code,
   Übersetzungen, …), kann jeder Beitragen, werden Bedingungen an Beiträge
   gestellt, …
@@ -74,7 +74,7 @@ Referate (max. 30min)
   Dokumentiert, wie wird mit Feedback von Nutzern umgegangen, werden
   Featurewünsche beachtet, …
 - **Versionsnummern und Releasepolitik**: Wann und wie werden neue Versionen
-  veröffentlicht, haben Versionenummern eine bestimmte Bedeutung, zeitbasierte
+  veröffentlicht, haben Versionsnummern eine bestimmte Bedeutung, zeitbasierte
   Versionen, keine expliziten Versionen, …
 - **Projektzusammenhänge**: Wie hängen Projekte voneinander ab, Forks und
   Projektspaltungen, Nutzung und Erweiterung bestehender Projekte, …
