@@ -11,6 +11,7 @@ Open-Source-Softwareentwicklung
     - Der Umgang mit Bugs *(ashek)*
     - Versionsnummern und Releasepolitik *(KarolinePlum)*
     - Motivation von Open-Source-Entwicklern *(pluettmann)*
+    - Wie kann ich zu Projekten beitragen *(dkopatz)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
