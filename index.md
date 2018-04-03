@@ -10,6 +10,7 @@ Open-Source-Softwareentwicklung
     - FLOSS im kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
     - Der Umgang mit Bugs *(ashek)*
     - Versionsnummern und Releasepolitik *(KarolinePlum)*
+    - Motivation von Open-Source-Entwicklern *(pluettmann)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
