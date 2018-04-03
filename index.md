@@ -5,7 +5,7 @@ Open-Source-Softwareentwicklung
 
 - [FLOSS-Projekte](projekte.md)
 - Themen
-    - Informationen zum Seminar *(lkiesow)*
+    - [4. April 2018: Informationen zum Seminar](#Aufgaben) *(lkiesow)*
     - Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
     - FLOSS im kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
     - Der Umgang mit Bugs *(ashek)*
