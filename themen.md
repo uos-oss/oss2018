@@ -6,14 +6,18 @@ Themen
 ______
     - [4. April 2018: Informationen zum Seminar](#aufgaben) *(lkiesow)*
     - Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
-    - FLOSS im kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
+    - FLOSS in kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
     - Der Umgang mit Bugs *(ashek)*
     - Versionsnummern und Releasepolitik *(KarolinePlum)*
     - Motivation von Open-Source-Entwicklern *(pluettmann)*
     - Wie kann ich zu Projekten beitragen *(dkopatz)*
     - Code- und Versionsverwaltung *(mklpiening)*
     - Usability, Dokumentation und Marketing *(tillz)*
-    
+    - Kommunikation
+    - FLOSS-Ökosysteme
+    - FLOSS-Events
+    - Entscheidungs- und Machtstrukturen
+    - Projektzusammenhänge
     
 Referate (max. 30min)
 ---------------------
@@ -34,7 +38,7 @@ Referate (max. 30min)
 - **FLOSS-Ökosysteme**: Organisationen wie Apache Foundation, Apereo
   Foundation, Free Software Foundation, Open Source Initiative, …
 - **FLOSS-Events**: Google Summer of Code, Hacktoberfest, FrOSCon, …
-- **FLOSS im kommerziellen Umfeldern**: Wie setzen Firmen FLOSS-Projekte ein,
+- **FLOSS in kommerziellen Umfeldern**: Wie setzen Firmen FLOSS-Projekte ein,
   kann mann mit FLOSS Geld verdienen, gibt es Vorurteile, …
 - **Motivation von Open-Source-Entwicklern**: Warum helfen Entwickler mit, ist
   alles nur die Arbeit von Freiwilligen, …
