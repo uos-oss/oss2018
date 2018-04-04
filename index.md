@@ -5,8 +5,14 @@ Open-Source-Softwareentwicklung
 
 - [FLOSS-Projekte](projekte.md)
 - Themen
-    - Informationen zum Seminar *(lkiesow)*
+    - [4. April 2018: Informationen zum Seminar](#aufgaben) *(lkiesow)*
+    - Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
+    - FLOSS im kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
     - Der Umgang mit Bugs *(ashek)*
+    - Versionsnummern und Releasepolitik *(KarolinePlum)*
+    - Motivation von Open-Source-Entwicklern *(pluettmann)*
+    - Wie kann ich zu Projekten beitragen *(dkopatz)*
+    - Code- und Versionsverwaltung *(mklpiening)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
@@ -32,12 +38,12 @@ Projekt-Lightningtalks (max. 10min)
 -----------------------------------
 
 Im ersten Teil der Veranstaltung soll ein beliebiges FLOSS-Projekt vorgestellt
-werden: Was tut das Projekt, wie ist es entstanden, wie läuft die Entwickling
+werden: Was tut das Projekt, wie ist es entstanden, wie läuft die Entwicklung
 ab, was für eine Lizenz wird genutzt, gibt es irgendetwas besonderes bei dem
 Projekt, …
 
-Eine kurze Zusammenfassung des Projektes soll bis innerhalb einer Woche nach
-dem Vortrag in die [Liste der Projekte](projekte.md) eingetragen werden.
+Eine kurze Zusammenfassung des Projektes soll innerhalb einer Woche nach dem
+Vortrag in die [Liste der Projekte](projekte.md) eingetragen werden.
 
 
 Referate (max. 30min)
@@ -45,7 +51,7 @@ Referate (max. 30min)
 
 - **Ein Überblick über FLOSS-Lizenzen**: Was sind populäre Lizenzen? Was sind
   deren Unterschiede, sind bestimmte Lizenzen für bestimmte Dinge besonders gut
-  geeignet, warum überhaupt lizensieren, Beispiellizensierungen, …
+  geeignet, warum überhaupt lizenzieren, Beispiellizenzierungen, …
 - **Wie kann ich zu Projekten beitragen**: Was gibt es an Beiträgen (Code,
   Übersetzungen, …), kann jeder Beitragen, werden Bedingungen an Beiträge
   gestellt, …
@@ -69,7 +75,7 @@ Referate (max. 30min)
   Dokumentiert, wie wird mit Feedback von Nutzern umgegangen, werden
   Featurewünsche beachtet, …
 - **Versionsnummern und Releasepolitik**: Wann und wie werden neue Versionen
-  veröffentlicht, haben Versionenummern eine bestimmte Bedeutung, zeitbasierte
+  veröffentlicht, haben Versionsnummern eine bestimmte Bedeutung, zeitbasierte
   Versionen, keine expliziten Versionen, …
 - **Projektzusammenhänge**: Wie hängen Projekte voneinander ab, Forks und
   Projektspaltungen, Nutzung und Erweiterung bestehender Projekte, …
@@ -124,3 +130,11 @@ Zur Auswahl eines Themas erstellen Sie bitte einen Pullrequest, in dem Sie sich
 mit Ihrer Github-Nutzerkennung in die [Liste der Projekte](projekte.md) und der
 [Liste der Themen](#Open-Source-Softwareentwicklung) eintragen. Entscheidend
 für die Themenwünsche ist dabei die Reihenfolge.
+
+
+Bewertung
+---------
+
+Bewertet werden die Vorstellung des Projektes, die Vorstellung und Ausarbeitung
+des Themas und der Beitrag zu einem Projekt in etwa in einem Verhältnis von
+20/60/20.
