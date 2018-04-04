@@ -129,3 +129,11 @@ Zur Auswahl eines Themas erstellen Sie bitte einen Pullrequest, in dem Sie sich
 mit Ihrer Github-Nutzerkennung in die [Liste der Projekte](projekte.md) und der
 [Liste der Themen](#Open-Source-Softwareentwicklung) eintragen. Entscheidend
 für die Themenwünsche ist dabei die Reihenfolge.
+
+
+Bewertung
+---------
+
+Bewertet werden die Vorstellung des Projektes, die Vorstellung und Ausarbeitung
+des Themas und der Beitrag zu einem Projekt in etwa in einem Verhältnis von
+20/60/20.
