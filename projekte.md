@@ -37,5 +37,5 @@ Beschreibung folgt.
 - Lizenz Android: [Apache License 2.0](https://github.com/airbnb/lottie-android/blob/master/LICENSE)
 - Lizenz iOS: [Apache License 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
 - Codeverwaltung & Issue-Tracker Android: [Github](https://github.com/airbnb/lottie-android)
-- Codeverwaltung & Issue-Tracker Android: [Github](https://github.com/airbnb/lottie-ios)
+- Codeverwaltung & Issue-Tracker iOS: [Github](https://github.com/airbnb/lottie-ios)
 
