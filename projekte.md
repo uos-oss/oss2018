@@ -8,7 +8,7 @@
 - [12. April 2018: OpenSlides](#openslides) *(fistutzente)*
 - [12. April 2018: ExoPlayer](#exoplayer)*(ashek)*
 - [12. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
-- [12. April 2018: ?](#)
+- [12. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [12. April 2018: ?](#)
 - [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [18. April 2018: ?](#)
@@ -60,3 +60,7 @@ Beschreibung folgt.
 
 - Lizenz: [Apache License 2.0](https://github.com/google/ExoPlayer/blob/release-v2/LICENSE)
 - Codeverwaltung & Issue-Tracker: [Github](https://github.com/google/ExoPlayer)
+
+
+Hyperledger
+--------
