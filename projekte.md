@@ -9,7 +9,7 @@
 - [11. April 2018: Lottie](#lottie)*(ashek)*
 - [11. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
 - [11. April 2018: Gitea](#gitea) *(mklpiening)*
-- [11. April 2018: ?](#)
+- [11. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
@@ -61,3 +61,6 @@ Beschreibung folgt.
 - Lizenz iOS: [Apache License 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
 - Codeverwaltung & Issue-Tracker Android: [Github](https://github.com/airbnb/lottie-android)
 - Codeverwaltung & Issue-Tracker iOS: [Github](https://github.com/airbnb/lottie-ios)
+
+Hyperledger
+-----------
