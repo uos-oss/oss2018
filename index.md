@@ -4,16 +4,7 @@ Open-Source-Softwareentwicklung
 *Ein Seminar der Universität Osnabrück im Sommersemester 2018.*
 
 - [FLOSS-Projekte](projekte.md)
-- Themen
-    - [4. April 2018: Informationen zum Seminar](#aufgaben) *(lkiesow)*
-    - Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
-    - FLOSS im kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
-    - Der Umgang mit Bugs *(ashek)*
-    - Versionsnummern und Releasepolitik *(KarolinePlum)*
-    - Motivation von Open-Source-Entwicklern *(pluettmann)*
-    - Wie kann ich zu Projekten beitragen *(dkopatz)*
-    - Code- und Versionsverwaltung *(mklpiening)*
-    - Usability, Dokumentation und Marketing *(tillz)*
+- [FlOSS-Themen](themen.md)
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
