@@ -13,6 +13,7 @@ Open-Source-Softwareentwicklung
     - Motivation von Open-Source-Entwicklern *(pluettmann)*
     - Wie kann ich zu Projekten beitragen *(dkopatz)*
     - Code- und Versionsverwaltung *(mklpiening)*
+    - Usability, Dokumentation und Marketing *(tillz)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen

@@ -11,7 +11,7 @@
 - [11. April 2018: Gitea](#gitea) *(mklpiening)*
 - [11. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
-- [18. April 2018: ?](#)
+- [18. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
