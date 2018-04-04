@@ -4,12 +4,12 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-- [12. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
-- [12. April 2018: OpenSlides](#openslides) *(fistutzente)*
-- [12. April 2018: ExoPlayer](#exoplayer)*(ashek)*
-- [12. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
-- [12. April 2018: ?](#)
-- [12. April 2018: ?](#)
+- [11. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
+- [11. April 2018: OpenSlides](#openslides) *(fistutzente)*
+- [11. April 2018: ExoPlayer](#exoplayer)*(ashek)*
+- [11. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
+- [11. April 2018: ?](#)
+- [11. April 2018: ?](#)
 - [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
