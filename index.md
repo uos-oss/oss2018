@@ -12,6 +12,7 @@ Open-Source-Softwareentwicklung
     - Versionsnummern und Releasepolitik *(KarolinePlum)*
     - Motivation von Open-Source-Entwicklern *(pluettmann)*
     - Wie kann ich zu Projekten beitragen *(dkopatz)*
+    - Code- und Versionsverwaltung *(mklpiening)*
 - Beiträge zu FLOSS-Projekten
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
