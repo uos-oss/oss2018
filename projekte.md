@@ -6,7 +6,7 @@
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
-- [12. April 2018: Lottie Android/iOS](#lottie-android/ios)*(ashek)*
+- [12. April 2018: Lottie](#lottie)*(ashek)*
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
 - [12. April 2018: ?](#)
@@ -31,7 +31,7 @@ Opencast ist ein internationales Projekt mit vielen beteiligten Universitäten w
 - Codeverwaltung: [Github](https://github.com/opencast/opencast)
 - Issue-Tracker: [Jira](https://opencast.jira.com/secure/Dashboard.jspa)
 
-Lottie Android/iOS
+Lottie
 --------
 Beschreibung folgt.
 - Lizenz Android: [Apache License 2.0](https://github.com/airbnb/lottie-android/blob/master/LICENSE)
