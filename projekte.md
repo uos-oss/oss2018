@@ -4,12 +4,12 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-- [12. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
-- [12. April 2018: OpenSlides](#openslides) *(fistutzente)*
-- [12. April 2018: ExoPlayer](#exoplayer)*(ashek)*
-- [12. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
-- [12. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
-- [12. April 2018: ?](#)
+- [11. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
+- [11. April 2018: OpenSlides](#openslides) *(fistutzente)*
+- [11. April 2018: Lottie](#lottie)*(ashek)*
+- [11. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
+- [11. April 2018: Gitea](#gitea) *(mklpiening)*
+- [11. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
@@ -36,7 +36,6 @@ weltweit.
 - Codeverwaltung: [Github](https://github.com/opencast/opencast)
 - Issue-Tracker: [Jira](https://opencast.jira.com/secure/Dashboard.jspa)
 
-
 OpenSlides
 ----------
 
@@ -53,14 +52,15 @@ Deutschland.
   [GitHub](https://github.com/OpenSlides/OpenSlides)
 
 
-Exoplayer
+Lottie
 --------
 
 Beschreibung folgt.
 
-- Lizenz: [Apache License 2.0](https://github.com/google/ExoPlayer/blob/release-v2/LICENSE)
-- Codeverwaltung & Issue-Tracker: [Github](https://github.com/google/ExoPlayer)
-
+- Lizenz Android: [Apache License 2.0](https://github.com/airbnb/lottie-android/blob/master/LICENSE)
+- Lizenz iOS: [Apache License 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
+- Codeverwaltung & Issue-Tracker Android: [Github](https://github.com/airbnb/lottie-android)
+- Codeverwaltung & Issue-Tracker iOS: [Github](https://github.com/airbnb/lottie-ios)
 
 Hyperledger
---------
+-----------
