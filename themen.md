@@ -3,7 +3,8 @@
 *[Zur Startseite](index.html)*
 
 Themen
-______
+------
+
     - [4. April 2018: Informationen zum Seminar](#aufgaben) *(lkiesow)*
     - Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
     - FLOSS in kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
