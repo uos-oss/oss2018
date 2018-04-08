@@ -51,6 +51,17 @@ Deutschland.
 - Codeverwaltung und Issue-Tracker:
   [GitHub](https://github.com/OpenSlides/OpenSlides)
 
+Gitea
+-----
+
+Gitea ist ein self-hosted Git service, der der das Ziel verfolgt, der am 
+einfachsten aufzusetzende self-hosted Git service zu sein. Zudem wird versucht, 
+Gitea möglichst plattformunabhängig und äußerst ressourcensparend zu gestalten.
+
+Entstanden ist Gitea als Fork von Gogs 2016.11.
+
+- Lizenz: [MIT](https://github.com/go-gitea/gitea/blob/master/LICENSE)
+- Codeverwaltung & Issue-Tracker: [GitHub](https://github.com/go-gitea/gitea)
 
 Lottie
 --------
