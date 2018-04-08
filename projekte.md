@@ -59,7 +59,7 @@ einfachsten aufzusetzende self-hosted Git service zu sein. Zudem wird versucht,
 Gitea möglichst plattformunabhängig und äußerst ressourcensparend zu gestalten.
 
 Entstanden ist Gitea als Fork von Gogs 2016.11 und wird seitdem von der 
-Community um das Projekt weiterentwickelt.
+Community des Projekts weiterentwickelt.
 
 - Lizenz: [MIT](https://github.com/go-gitea/gitea/blob/master/LICENSE)
 - Codeverwaltung & Issue-Tracker: [GitHub](https://github.com/go-gitea/gitea)
