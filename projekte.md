@@ -64,3 +64,12 @@ Beschreibung folgt.
 
 Hyperledger
 -----------
+
+Hyperledger ist ein sogenanntes Umbrella project für Open-source Blockchains. Die Linux Foundation hat das Projekt Dezember 2015 gestartet. Mitgründer des Projektes sind unter anderem IBM, J.P. Morgan und Intel. Seit 2015 haben sich noch viele weitere große Firmen angeschlossen. 
+
+Hyperledger unterstützt die Entwicklung von Blockchains. Alle Unterprojekte von Hyperledger werden nach bestimmten Grundregeln aufgebaut. Teilnehmende Entwickler und Firmen bauen ein System auf, welches transparent, schnell und kompatibel zu anderen Systemen ist. 
+
+Die dort entstandenen Blockchains sollen genutzt werden für das Finanzsystem (Banken, private Transaktionen, minimierte Gebühren), Gesundheitssystem (schnelle Weitergabe von sensiblen Daten, bessere Kommunikation zwischen Ärzten), Transportwesen (Logistik) und weitere.
+
+- Lizenz: Apache License 2.0
+- Codeverwaltung: [Github](https://github.com/hyperledger)
