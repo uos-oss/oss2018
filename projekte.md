@@ -11,7 +11,7 @@
 - [11. April 2018: Gitea](#gitea) *(mklpiening)*
 - [11. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
-- [18. April 2018: ?](#)
+- [18. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
@@ -51,6 +51,18 @@ Deutschland.
 - Codeverwaltung und Issue-Tracker:
   [GitHub](https://github.com/OpenSlides/OpenSlides)
 
+Gitea
+-----
+
+Gitea ist ein self-hosted Git service, der der das Ziel verfolgt, der am 
+einfachsten aufzusetzende self-hosted Git service zu sein. Zudem wird versucht, 
+Gitea möglichst plattformunabhängig und äußerst ressourcensparend zu gestalten.
+
+Entstanden ist Gitea als Fork von Gogs 2016.11 und wird seitdem von der 
+Community des Projekts weiterentwickelt.
+
+- Lizenz: [MIT](https://github.com/go-gitea/gitea/blob/master/LICENSE)
+- Codeverwaltung & Issue-Tracker: [GitHub](https://github.com/go-gitea/gitea)
 
 Lottie
 --------
@@ -73,3 +85,8 @@ Die dort entstandenen Blockchains sollen genutzt werden für das Finanzsystem (B
 
 - Lizenz: Apache License 2.0
 - Codeverwaltung: [Github](https://github.com/hyperledger)
+
+certbot
+-----------
+
+T.B.D.
