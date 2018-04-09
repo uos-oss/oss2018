@@ -4,18 +4,18 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-- [11. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
-- [11. April 2018: OpenSlides](#openslides) *(fistutzente)*
-- [11. April 2018: Lottie](#lottie)*(ashek)*
-- [11. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
-- [11. April 2018: Gitea](#gitea) *(mklpiening)*
-- [11. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
-- [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
-- [18. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
-- [18. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
-- [18. April 2018: ?](#)
-- [18. April 2018: ?](#)
-- [18. April 2018: ?](#)
+- [13. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
+- [13. April 2018: OpenSlides](#openslides) *(fistutzente)*
+- [13. April 2018: Lottie](#lottie)*(ashek)*
+- [13. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
+- [13. April 2018: Gitea](#gitea) *(mklpiening)*
+- [13. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
+- [20. April 2018: OpenSSL](#openssl) *(dkopatz)*
+- [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
+- [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
+- [20. April 2018: ?](#)
+- [20. April 2018: ?](#)
+- [20. April 2018: ?](#)
 
 
 Opencast
