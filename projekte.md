@@ -4,7 +4,6 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-
 - [13. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
 - [13. April 2018: OpenSlides](#openslides) *(fistutzente)*
 - [13. April 2018: Lottie](#lottie)*(ashek)*
@@ -14,10 +13,9 @@
 - [20. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
 - [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
+- [20. April 2018: JQuery](#jquery) *(kkuhr)*
 - [20. April 2018: ?](#)
 - [20. April 2018: ?](#)
-- [20. April 2018: ?](#)
-
 
 
 Opencast
@@ -108,3 +106,8 @@ OpenSSL kann sowohl in nicht-kommerziellen als auch kommerziellen Projekten frei
 - Codeverwaltung: [Github](https://github.com/openssl/openssl)
 - Issue-Tracker: [Github](https://github.com/openssl/openssl/issues)
 
+JQuery
+-------
+
+- Lizenz: [MIT](https://github.com/jquery/jquery/blob/master/LICENSE.txt)
+- Codeverwaltung und Issue-Tracker: [Github](https://github.com/jquery/jquery)
