@@ -13,7 +13,7 @@
 - [20. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
 - [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
-- [20. April 2018: ?](#)
+- [20. April 2018: JQuery](#jquery) *(kkuhr)*
 - [20. April 2018: ?](#)
 - [20. April 2018: ?](#)
 
@@ -90,3 +90,9 @@ certbot
 -----------
 
 T.B.D.
+
+JQuery
+-------
+
+- Lizenz: [MIT](https://github.com/jquery/jquery/blob/master/LICENSE.txt)
+- Codeverwaltung und Issue-Tracker: [Github](https://github.com/jquery/jquery)
