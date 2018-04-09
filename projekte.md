@@ -4,18 +4,20 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-- [11. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
-- [11. April 2018: OpenSlides](#openslides) *(fistutzente)*
-- [11. April 2018: Lottie](#lottie)*(ashek)*
-- [11. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
-- [11. April 2018: Gitea](#gitea) *(mklpiening)*
-- [11. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
-- [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
-- [18. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
-- [18. April 2018: ?](#)
-- [18. April 2018: ?](#)
-- [18. April 2018: ?](#)
-- [18. April 2018: ?](#)
+
+- [13. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
+- [13. April 2018: OpenSlides](#openslides) *(fistutzente)*
+- [13. April 2018: Lottie](#lottie)*(ashek)*
+- [13. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
+- [13. April 2018: Gitea](#gitea) *(mklpiening)*
+- [13. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
+- [20. April 2018: OpenSSL](#openssl) *(dkopatz)*
+- [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
+- [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
+- [20. April 2018: ?](#)
+- [20. April 2018: ?](#)
+- [20. April 2018: ?](#)
+
 
 
 Opencast
@@ -61,6 +63,7 @@ Gitea möglichst plattformunabhängig und äußerst ressourcensparend zu gestalt
 Entstanden ist Gitea als Fork von Gogs 2016.11 und wird seitdem von der 
 Community des Projekts weiterentwickelt.
 
+
 - Lizenz: [MIT](https://github.com/go-gitea/gitea/blob/master/LICENSE)
 - Codeverwaltung & Issue-Tracker: [GitHub](https://github.com/go-gitea/gitea)
 
@@ -91,6 +94,7 @@ certbot
 
 T.B.D.
 
+
 OpenSSL
 -----------
 
@@ -103,3 +107,4 @@ OpenSSL kann sowohl in nicht-kommerziellen als auch kommerziellen Projekten frei
 - Lizenz: [OpenSSL License & SSLeay License](https://github.com/openssl/openssl/blob/master/LICENSE) (vergleichbar mit einer Apache-Lizenz)
 - Codeverwaltung: [Github](https://github.com/openssl/openssl)
 - Issue-Tracker: [Github](https://github.com/openssl/openssl/issues)
+
