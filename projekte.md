@@ -96,7 +96,9 @@ OpenSSL
 
 OpenSSL ist ein Tool, welches die Transport Layer Security (TLS) und Secure Sockets Layer (SSL) Protokolle implementiert, Ver- und Entschlüsseln mit diversen Verschlüsselungen ermöglicht und das Erstellen von Zertifikaten zum Authentifizieren zur Verfügung stellt. Desweiteren ist OpenSSL das erste Open-Source Projekt welches den Sicherheitsstandards des FIPS-Zertifikats gerecht wird.
 
-Das OpenSSL Projekt basiert auf einem Fork von SSLeay und wurde 1988 entwickelt um gebührenfreie Krypto-Software für Onlineanwendungen anzubieten. OpenSSL kann sowohl in nicht-kommerziellen als auch kommerziellen Projekten frei verwendet werden.
+Das OpenSSL Projekt basiert auf einem Fork von SSLeay und wurde 1988 entwickelt um gebührenfreie Krypto-Software für Onlineanwendungen anzubieten. 
+
+OpenSSL kann sowohl in nicht-kommerziellen als auch kommerziellen Projekten frei verwendet werden und ist mittlerweile im wesentlichen der Standard für jeden Open-Source Webserver.
 
 - Lizenz: [OpenSSL License & SSLeay License](https://github.com/openssl/openssl/blob/master/LICENSE) (vergleichbar mit einer Apache-Lizenz)
 - Codeverwaltung: [Github](https://github.com/openssl/openssl)
