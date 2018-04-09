@@ -4,14 +4,14 @@
 *[Zur Startseite](index.html)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
-- [12. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
-- [12. April 2018: OpenSlides](#openslides) *(fistutzente)*
-- [12. April 2018: ExoPlayer](#exoplayer)*(ashek)*
-- [12. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
-- [12. April 2018: ?](#)
-- [12. April 2018: ?](#)
+- [11. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
+- [11. April 2018: OpenSlides](#openslides) *(fistutzente)*
+- [11. April 2018: Lottie](#lottie)*(ashek)*
+- [11. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
+- [11. April 2018: Gitea](#gitea) *(mklpiening)*
+- [11. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [18. April 2018: OpenSSL](#openssl) *(dkopatz)*
-- [18. April 2018: ?](#)
+- [18. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
 - [18. April 2018: ?](#)
@@ -36,7 +36,6 @@ weltweit.
 - Codeverwaltung: [Github](https://github.com/opencast/opencast)
 - Issue-Tracker: [Jira](https://opencast.jira.com/secure/Dashboard.jspa)
 
-
 OpenSlides
 ----------
 
@@ -52,11 +51,53 @@ Deutschland.
 - Codeverwaltung und Issue-Tracker:
   [GitHub](https://github.com/OpenSlides/OpenSlides)
 
+Gitea
+-----
 
-Exoplayer
+Gitea ist ein self-hosted Git service, der der das Ziel verfolgt, der am 
+einfachsten aufzusetzende self-hosted Git service zu sein. Zudem wird versucht, 
+Gitea möglichst plattformunabhängig und äußerst ressourcensparend zu gestalten.
+
+Entstanden ist Gitea als Fork von Gogs 2016.11 und wird seitdem von der 
+Community des Projekts weiterentwickelt.
+
+- Lizenz: [MIT](https://github.com/go-gitea/gitea/blob/master/LICENSE)
+- Codeverwaltung & Issue-Tracker: [GitHub](https://github.com/go-gitea/gitea)
+
+Lottie
 --------
 
 Beschreibung folgt.
 
-- Lizenz: [Apache License 2.0](https://github.com/google/ExoPlayer/blob/release-v2/LICENSE)
-- Codeverwaltung & Issue-Tracker: [Github](https://github.com/google/ExoPlayer)
+- Lizenz Android: [Apache License 2.0](https://github.com/airbnb/lottie-android/blob/master/LICENSE)
+- Lizenz iOS: [Apache License 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
+- Codeverwaltung & Issue-Tracker Android: [Github](https://github.com/airbnb/lottie-android)
+- Codeverwaltung & Issue-Tracker iOS: [Github](https://github.com/airbnb/lottie-ios)
+
+Hyperledger
+-----------
+
+Hyperledger ist ein sogenanntes Umbrella project für Open-source Blockchains. Die Linux Foundation hat das Projekt Dezember 2015 gestartet. Mitgründer des Projektes sind unter anderem IBM, J.P. Morgan und Intel. Seit 2015 haben sich noch viele weitere große Firmen angeschlossen. 
+
+Hyperledger unterstützt die Entwicklung von Blockchains. Alle Unterprojekte von Hyperledger werden nach bestimmten Grundregeln aufgebaut. Teilnehmende Entwickler und Firmen bauen ein System auf, welches transparent, schnell und kompatibel zu anderen Systemen ist. 
+
+Die dort entstandenen Blockchains sollen genutzt werden für das Finanzsystem (Banken, private Transaktionen, minimierte Gebühren), Gesundheitssystem (schnelle Weitergabe von sensiblen Daten, bessere Kommunikation zwischen Ärzten), Transportwesen (Logistik) und weitere.
+
+- Lizenz: Apache License 2.0
+- Codeverwaltung: [Github](https://github.com/hyperledger)
+
+certbot
+-----------
+
+T.B.D.
+
+OpenSSL
+-----------
+
+OpenSSL ist ein Tool, welches die Transport Layer Security (TLS) und Secure Sockets Layer (SSL) Protokolle implementiert, Ver- und Entschlüsseln mit diversen Verschlüsselungen ermöglicht und das Erstellen von Zertifikaten zum Authentifizieren zur Verfügung stellt. Desweiteren ist OpenSSL das erste Open-Source Projekt welches den Sicherheitsstandards des FIPS-Zertifikats gerecht wird.
+
+Das OpenSSL Projekt basiert auf einem Fork von SSLeay und wurde 1988 entwickelt um gebührenfreie Krypto-Software für Onlineanwendungen anzubieten. OpenSSL kann sowohl in nicht-kommerziellen als auch kommerziellen Projekten frei verwendet werden.
+
+- Lizenz: [OpenSSL License & SSLeay License](https://github.com/openssl/openssl/blob/master/LICENSE) (vergleichbar mit einer Apache-Lizenz)
+- Codeverwaltung: [Github](https://github.com/openssl/openssl)
+- Issue-Tracker: [Github](https://github.com/openssl/openssl/issues)
