@@ -6,7 +6,7 @@
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
 - [11. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
 - [11. April 2018: OpenSlides](#openslides) *(fistutzente)*
-- [11. April 2018: Lottie](#lottie)*(ashek)*
+- [11. April 2018: Lottie](#lottie) *(ashek)*
 - [11. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
 - [11. April 2018: Gitea](#gitea) *(mklpiening)*
 - [11. April 2018: ?](#)
@@ -55,7 +55,7 @@ Deutschland.
 Lottie
 --------
 
-Beschreibung folgt.
+Lottie ist eine Bibliothek für iOS, Android und React Native. Es ermöglicht auf eben diesen Plattformen die Einbindung einer Animationsdatei, welche gleichzeitig in nativen Code übersetzt und wiedergegeben wird. Diese Animationsdatei kann mit dem Adobe After Effects Plugin Bodymovin(ist auch Open-Source) erstellt und nativ eingebunden werden.
 
 - Lizenz Android: [Apache License 2.0](https://github.com/airbnb/lottie-android/blob/master/LICENSE)
 - Lizenz iOS: [Apache License 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
