@@ -14,12 +14,12 @@ Themen
 - Wie kann ich zu Projekten beitragen *(dkopatz)*
 - Code- und Versionsverwaltung *(mklpiening)*
 - Usability, Dokumentation und Marketing *(tillz)*
+- Entscheidungs- und Machtstrukturen *(ottker)*
 - Kommunikation
 - FLOSS-Ökosysteme
 - FLOSS-Events
-- Entscheidungs- und Machtstrukturen *(ottker)*
 - Projektzusammenhänge
-    
+
 Referate (max. 30min)
 ---------------------
 

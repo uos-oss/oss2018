@@ -53,7 +53,8 @@ Beitrag zu einem FLOSS-Projekt
 ------------------------------
 
 Es soll zu einem beliebigen FLOSS-Projekt ein Beitrag eingebracht werden, sowie
-ein kurzer Vortrag (10 Minuten inkl. Q&A) über die Ergebnisse, Hürden, usw. gehalten werden.
+ein kurzer Vortrag (10 Minuten inkl. Q&A) über die Ergebnisse, Hürden, usw.
+gehalten werden.
 
 
 Bewertung
