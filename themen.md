@@ -17,7 +17,7 @@ Themen
 - Kommunikation
 - FLOSS-Ökosysteme
 - FLOSS-Events
-- Entscheidungs- und Machtstrukturen
+- Entscheidungs- und Machtstrukturen *(ottker)*
 - Projektzusammenhänge
     
 Referate (max. 30min)
