@@ -6,7 +6,7 @@
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
 - [13. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
 - [13. April 2018: OpenSlides](#openslides) *(fistutzente)*
-- [13. April 2018: Lottie](#lottie)*(ashek)*
+- [13. April 2018: Lottie](#lottie) *(ashek)*
 - [13. April 2018: TensorFlow](#tensorflow) *(KarolinePlum)*
 - [13. April 2018: Gitea](#gitea) *(mklpiening)*
 - [13. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
@@ -14,8 +14,6 @@
 - [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
 - [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
 - [20. April 2018: JQuery](#jquery) *(kkuhr)*
-- [20. April 2018: ?](#)
-- [20. April 2018: ?](#)
 
 
 Opencast
@@ -79,12 +77,17 @@ Community des Projekts weiterentwickelt.
 Lottie
 --------
 
-Beschreibung folgt.
+Lottie ist eine Bibliothek für iOS, Android und React Native. Es ermöglicht auf
+eben diesen Plattformen die Einbindung einer Animationsdatei, welche
+gleichzeitig in nativen Code übersetzt und wiedergegeben wird. Diese
+Animationsdatei kann mit dem Adobe After Effects Plugin Bodymovin(ist auch
+Open-Source) erstellt und nativ eingebunden werden.
 
 - Lizenz Android: [Apache License 2.0](https://github.com/airbnb/lottie-android/blob/master/LICENSE)
 - Lizenz iOS: [Apache License 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
 - Codeverwaltung & Issue-Tracker Android: [Github](https://github.com/airbnb/lottie-android)
 - Codeverwaltung & Issue-Tracker iOS: [Github](https://github.com/airbnb/lottie-ios)
+
 
 Hyperledger
 -----------
@@ -93,7 +96,10 @@ Hyperledger ist ein sogenanntes Umbrella project für Open-source Blockchains. D
 
 Hyperledger unterstützt die Entwicklung von Blockchains. Alle Unterprojekte von Hyperledger werden nach bestimmten Grundregeln aufgebaut. Teilnehmende Entwickler und Firmen bauen ein System auf, welches transparent, schnell und kompatibel zu anderen Systemen ist.
 
-Die dort entstandenen Blockchains sollen genutzt werden für das Finanzsystem (Banken, private Transaktionen, minimierte Gebühren), Gesundheitssystem (schnelle Weitergabe von sensiblen Daten, bessere Kommunikation zwischen Ärzten), Transportwesen (Logistik) und weitere.
+Die dort entstandenen Blockchains sollen genutzt werden für das Finanzsystem
+(Banken, private Transaktionen, minimierte Gebühren), Gesundheitssystem
+(schnelle Weitergabe von sensiblen Daten, bessere Kommunikation zwischen
+Ärzten), Transportwesen (Logistik) und weitere.
 
 - Lizenz: Apache License 2.0
 - Codeverwaltung: [Github](https://github.com/hyperledger)
@@ -107,15 +113,25 @@ T.B.D.
 OpenSSL
 -----------
 
-OpenSSL ist ein Tool, welches die Transport Layer Security (TLS) und Secure Sockets Layer (SSL) Protokolle implementiert, Ver- und Entschlüsseln mit diversen Verschlüsselungen ermöglicht und das Erstellen von Zertifikaten zum Authentifizieren zur Verfügung stellt. Desweiteren ist OpenSSL das erste Open-Source Projekt welches den Sicherheitsstandards des FIPS-Zertifikats gerecht wird.
+OpenSSL ist ein Tool, welches die Transport Layer Security (TLS) und Secure
+Sockets Layer (SSL) Protokolle implementiert, Ver- und Entschlüsseln mit
+diversen Verschlüsselungen ermöglicht und das Erstellen von Zertifikaten zum
+Authentifizieren zur Verfügung stellt. Desweiteren ist OpenSSL das erste
+Open-Source Projekt welches den Sicherheitsstandards des FIPS-Zertifikats
+gerecht wird.
 
 Das OpenSSL Projekt basiert auf einem Fork von SSLeay und wurde 1988 entwickelt um gebührenfreie Krypto-Software für Onlineanwendungen anzubieten.
 
-OpenSSL kann sowohl in nicht-kommerziellen als auch kommerziellen Projekten frei verwendet werden und ist mittlerweile im wesentlichen der Standard für jeden Open-Source Webserver.
+OpenSSL kann sowohl in nicht-kommerziellen als auch kommerziellen Projekten
+frei verwendet werden und ist mittlerweile im wesentlichen der Standard für
+jeden Open-Source Webserver.
 
-- Lizenz: [OpenSSL License & SSLeay License](https://github.com/openssl/openssl/blob/master/LICENSE) (vergleichbar mit einer Apache-Lizenz)
+- Lizenz: [OpenSSL License & SSLeay License
+  ](https://github.com/openssl/openssl/blob/master/LICENSE) (vergleichbar mit
+  einer Apache-Lizenz)
 - Codeverwaltung: [Github](https://github.com/openssl/openssl)
 - Issue-Tracker: [Github](https://github.com/openssl/openssl/issues)
+
 
 JQuery
 -------
