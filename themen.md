@@ -18,7 +18,7 @@ Themen
 - Kommunikation
 - FLOSS-Ökosysteme
 - FLOSS-Events
-- Projektzusammenhänge
+- Projektzusammenhänge *(kkuhr)*
 
 Referate (max. 30min)
 ---------------------
