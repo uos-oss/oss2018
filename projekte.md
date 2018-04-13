@@ -36,6 +36,17 @@ weltweit.
 - Codeverwaltung: [Github](https://github.com/opencast/opencast)
 - Issue-Tracker: [Jira](https://opencast.jira.com/secure/Dashboard.jspa)
 
+The Rust Programming Language
+-----------------------------
+
+Rust ist eine Systemprogrammiersprache, die von Mozilla Research gesponsort wird. Beschrieben wird sie als eine sichere, nebenlaeufige und praktische Sprache, welche Vorteile moderner High Level Sprachen mit denen von Low Level Sprachen vereint und darüber hinaus Sicherheitsgarantien liefert, welche für das heutige Entwickeln komplexer Systeme unabdingbar sind.
+
+Entstanden aus dem privaten Projekt des Mozilla-Mitarbeiters Graydon Hoare wird Rust heutzutage von einem internationalen Entwickerteam vorangetrieben, wobei ein hoher Wert auf das Mitwirken der Community gelegt wird.
+
+- Lizenz: [Apache License (Version 2.0)](https://github.com/rust-lang/rust/blob/master/LICENSE-MIT) und [MIT License](https://github.com/rust-lang/rust/blob/master/LICENSE-APACHE)
+- Codeverwaltung: [Github](https://github.com/rust-lang/rust)
+- Issue-Tracker: [Github](https://github.com/rust-lang/rust/issues)
+
 OpenSlides
 ----------
 
@@ -54,11 +65,11 @@ Deutschland.
 Gitea
 -----
 
-Gitea ist ein self-hosted Git service, der der das Ziel verfolgt, der am 
-einfachsten aufzusetzende self-hosted Git service zu sein. Zudem wird versucht, 
+Gitea ist ein self-hosted Git service, der der das Ziel verfolgt, der am
+einfachsten aufzusetzende self-hosted Git service zu sein. Zudem wird versucht,
 Gitea möglichst plattformunabhängig und äußerst ressourcensparend zu gestalten.
 
-Entstanden ist Gitea als Fork von Gogs 2016.11 und wird seitdem von der 
+Entstanden ist Gitea als Fork von Gogs 2016.11 und wird seitdem von der
 Community des Projekts weiterentwickelt.
 
 
@@ -78,9 +89,9 @@ Beschreibung folgt.
 Hyperledger
 -----------
 
-Hyperledger ist ein sogenanntes Umbrella project für Open-source Blockchains. Die Linux Foundation hat das Projekt Dezember 2015 gestartet. Mitgründer des Projektes sind unter anderem IBM, J.P. Morgan und Intel. Seit 2015 haben sich noch viele weitere große Firmen angeschlossen. 
+Hyperledger ist ein sogenanntes Umbrella project für Open-source Blockchains. Die Linux Foundation hat das Projekt Dezember 2015 gestartet. Mitgründer des Projektes sind unter anderem IBM, J.P. Morgan und Intel. Seit 2015 haben sich noch viele weitere große Firmen angeschlossen.
 
-Hyperledger unterstützt die Entwicklung von Blockchains. Alle Unterprojekte von Hyperledger werden nach bestimmten Grundregeln aufgebaut. Teilnehmende Entwickler und Firmen bauen ein System auf, welches transparent, schnell und kompatibel zu anderen Systemen ist. 
+Hyperledger unterstützt die Entwicklung von Blockchains. Alle Unterprojekte von Hyperledger werden nach bestimmten Grundregeln aufgebaut. Teilnehmende Entwickler und Firmen bauen ein System auf, welches transparent, schnell und kompatibel zu anderen Systemen ist.
 
 Die dort entstandenen Blockchains sollen genutzt werden für das Finanzsystem (Banken, private Transaktionen, minimierte Gebühren), Gesundheitssystem (schnelle Weitergabe von sensiblen Daten, bessere Kommunikation zwischen Ärzten), Transportwesen (Logistik) und weitere.
 
@@ -98,7 +109,7 @@ OpenSSL
 
 OpenSSL ist ein Tool, welches die Transport Layer Security (TLS) und Secure Sockets Layer (SSL) Protokolle implementiert, Ver- und Entschlüsseln mit diversen Verschlüsselungen ermöglicht und das Erstellen von Zertifikaten zum Authentifizieren zur Verfügung stellt. Desweiteren ist OpenSSL das erste Open-Source Projekt welches den Sicherheitsstandards des FIPS-Zertifikats gerecht wird.
 
-Das OpenSSL Projekt basiert auf einem Fork von SSLeay und wurde 1988 entwickelt um gebührenfreie Krypto-Software für Onlineanwendungen anzubieten. 
+Das OpenSSL Projekt basiert auf einem Fork von SSLeay und wurde 1988 entwickelt um gebührenfreie Krypto-Software für Onlineanwendungen anzubieten.
 
 OpenSSL kann sowohl in nicht-kommerziellen als auch kommerziellen Projekten frei verwendet werden und ist mittlerweile im wesentlichen der Standard für jeden Open-Source Webserver.
 
