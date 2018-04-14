@@ -14,6 +14,7 @@
 - [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
 - [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
 - [20. April 2018: JQuery](#jquery) *(kkuhr)*
+- [20. April 2018: Kodi](#Kodi) *(ekeser)*
 
 
 Opencast
