@@ -91,6 +91,21 @@ Open-Source) erstellt und nativ eingebunden werden.
 - Codeverwaltung & Issue-Tracker iOS: [Github](https://github.com/airbnb/lottie-ios)
 
 
+TensorFlow
+----------
+
+TensorFlow ist ein Framework für Machine Learning, dessen Kern eine Bibliothek für hochperformante Ausführung komplexer numerischer Berechnungen, die durch "Data Flow Graphs" modelliert werden, darstellt. Darauf aufbauend bietet es
+Möglichkeiten zur Anwendung von Lernalgorithmen für das Trainieren von Modellen.
+
+TensorFlow verfolgt das Ziel, möglichst platformunabhängig, flexibel, skalierbar und allumfassend zu sein.
+
+2015 überraschend von Google als Open-Source veröffentlicht, ist TensorFlow das zur Zeit meistgenutzte Framework für
+Machine und insbesondere Deep Learning.
+
+- Lizenz: [Apache License 2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
+- Codeverwaltung und Issue-Tracker: [Github](https://github.com/tensorflow/tensorflow)
+
+
 Hyperledger
 -----------
 
@@ -144,5 +159,3 @@ JQuery
 
 Ubuntu Touch
 ------------
-
-
