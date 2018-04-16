@@ -15,6 +15,7 @@
 - [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
 - [20. April 2018: JQuery](#jquery) *(kkuhr)*
 - [20. April 2018: Kodi](#Kodi) *(ekeser)*
+- [20. April 2018: Ubuntu Touch](#ubuntutouch) *(rmirau)*
 
 
 Opencast
@@ -139,3 +140,9 @@ JQuery
 
 - Lizenz: [MIT](https://github.com/jquery/jquery/blob/master/LICENSE.txt)
 - Codeverwaltung und Issue-Tracker: [Github](https://github.com/jquery/jquery)
+
+
+Ubuntu Touch
+------------
+
+
