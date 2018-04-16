@@ -16,7 +16,7 @@ Themen
 - Usability, Dokumentation und Marketing *(tillz)*
 - Entscheidungs- und Machtstrukturen *(ottker)*
 - Kommunikation
-- FLOSS-Ökosysteme
+- FLOSS-Ökosysteme *(rmirau)*
 - FLOSS-Events
 - Projektzusammenhänge *(kkuhr)*
 
