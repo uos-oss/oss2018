@@ -5,7 +5,7 @@ Open-Source-Softwareentwicklung
 
 - [FLOSS-Projekte](projekte.md)
 - [FLOSS-Themen](themen.md)
-- Beiträge zu FLOSS-Projekten
+- [Beiträge zu FLOSS-Projekten](beitraege.md)
 
 In diesem Seminar soll eine gemeinsame Dokumentation zu unterschiedlichen
 Aspekten des Themas „Freie Open Source Software“ erarbeitet werden.

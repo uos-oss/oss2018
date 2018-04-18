@@ -1,7 +1,7 @@
----
----
+Projektvorstellungen
+====================
 
-*[Zur Startseite](index.html)*
+*[Zur Startseite](index.md)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
 - [13. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
@@ -71,7 +71,6 @@ Gitea möglichst plattformunabhängig und äußerst ressourcensparend zu gestalt
 
 Entstanden ist Gitea als Fork von Gogs 2016.11 und wird seitdem von der
 Community des Projekts weiterentwickelt.
-
 
 - Lizenz: [MIT](https://github.com/go-gitea/gitea/blob/master/LICENSE)
 - Codeverwaltung & Issue-Tracker: [GitHub](https://github.com/go-gitea/gitea)
