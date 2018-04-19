@@ -12,7 +12,7 @@ Projektvorstellungen
 - [13. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [20. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
-- [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
+- [20. April 2018: FFmpeg](#FFmpeg) *(ottker)*
 - [20. April 2018: JQuery](#jquery) *(kkuhr)*
 - [20. April 2018: Kodi](#Kodi) *(ekeser)*
 - [20. April 2018: Ubuntu Touch](#ubuntutouch) *(rmirau)*
@@ -147,6 +147,18 @@ jeden Open-Source Webserver.
   einer Apache-Lizenz)
 - Codeverwaltung: [Github](https://github.com/openssl/openssl)
 - Issue-Tracker: [Github](https://github.com/openssl/openssl/issues)
+
+
+FFmpeg
+------
+
+**FFmpeg** ist ein Multimediaframework. Es beinhaltet die Endanwendertools ffmpeg, ffplay und ffprobe und diverse Bibliotheken zum Entwickeln anderer Software. Unter anderem libavcodec, die mehr als 80 Audio- & Videocodecs implementiert.
+
+**ffmpeg** ist ein Kommandozeilentool und ermöglicht das einfache Konvertieren von Video- & Audiomaterial. Dabei können diverse Codecs (aus libavcodec) decodiert und encodiert werden. Außerdem lassen sich die verschiedenen Streams in viele Containerformate (.mp4, .avi etc.) verpacken. Dabei wird Wert auf eine einfache Handhabung und gleichzeitig hohe Kon­fi­gu­rier­barkeit der Ergebnisdatei gelegt.
+
+- Lizenz: [LGPL 2.1 / GPL 2.0](https://ffmpeg.org/legal.html) (je nach Konfiguration)
+- Codeverwaltung: [git (selbst gehostet)](https://git.ffmpeg.org/ffmpeg.git) ([Github Mirror](https://github.com/FFmpeg/FFmpeg))
+- Issue-Tracker: [Trac (selbst gehostet)](https://trac.ffmpeg.org)
 
 
 JQuery
