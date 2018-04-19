@@ -12,7 +12,7 @@ Projektvorstellungen
 - [13. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [20. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
-- [20. April 2018: FFmpeg](#FFmpeg) *(ottker)*
+- [20. April 2018: FFmpeg](#ffmpeg) *(ottker)*
 - [20. April 2018: JQuery](#jquery) *(kkuhr)*
 - [20. April 2018: Kodi](#Kodi) *(ekeser)*
 - [20. April 2018: Ubuntu Touch](#ubuntutouch) *(rmirau)*
