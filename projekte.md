@@ -163,6 +163,19 @@ FFmpeg
 
 JQuery
 -------
+JQuery ist eine freie JavaScript Bibliothek und gehört zu den meistverwendeten JavaScript Bibliotheken überhaupt.
+JQuery wird in Webanwendungen für die Ausführung im Browser genutzt, um die Interaktion mit der
+Webanwendung dynamischer zu machen. Hierbei unterstützt es mit vielen Funktionen, wie die Interaktion mit dem DOM,
+Animationen oder Ajax Aufrufen.
+
+Das Projekt wurde 2006 gestartet und verbreitete sich recht schnell, was vor allem an seiner Vielfältigkeit und
+simplen Erweiterung lag.
+
+Nachdem das Projekt immer Erfolgreicher wurde und weitere Projekte entstanden, die auf JQuery aufbauen
+(JQueryUI, JQueryMobile, QUnit, Sizzle) entstand die JQueryFoundation. Diese Organisation verwaltete ab diesem
+Zeitpunkt JQuery und die daraus entstandenen Projekte. Später wurde die JQueryFoundation zu der JSFoundation,
+welche ein Projekt der LinuxFoundation ist. Die JSFoundation ist neben den JQuery Projekten auch für andere
+große JavaScript Projekte verantwortlich.
 
 - Lizenz: [MIT](https://github.com/jquery/jquery/blob/master/LICENSE.txt)
 - Codeverwaltung und Issue-Tracker: [Github](https://github.com/jquery/jquery)
