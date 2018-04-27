@@ -3,7 +3,7 @@ Referatsthemen
 
 *[Zur Startseite](index.md)*
 
-- [28. April: Ein Überblick über FLOSS-Lizenzen *(astiefvater)*](lizenzen/index.md)
+- [28. April: Ein Überblick über FLOSS-Lizenzen *(astiefvater)*](themen/lizenzen/index.md)
 - [28. April: Wie kann ich zu Projekten beitragen *(dkopatz)*](#)
 - [4. Mai: Der Umgang mit Bugs *(ashek)*](#)
 - [4. Mai: Code- und Versionsverwaltung *(mklpiening)*](#)
@@ -14,7 +14,7 @@ Referatsthemen
 - [1. Juni: FLOSS in kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*](#)
 - [1. Juni: Motivation von Open-Source-Entwicklern *(pluettmann)*](#)
 - [8. Juni: Entscheidungs- und Machtstrukturen *(ottker)*](#)
-- [8. Juni: Usability, Dokumentation und Marketing *(tillz)*](#)
+- [8. Juni: Fallstricke bei der FLOSS-Nutzung- und Entwicklung *(tillz)*](#)
 - [15. Juni: Versionsnummern und Releasepolitik *(KarolinePlum)*](#)
 - [15. Juni: Projektzusammenhänge *(kkuhr)*](#)
 

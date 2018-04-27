@@ -1,7 +1,7 @@
 Ein Überblick über FLOSS-Lizenzen
 =================================
 
-*[Zur Themenübersicht](../themen.md)*
+*[Zur Themenübersicht](../../themen.md)*
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid ergo aliud
 intellegetur nisi uti ne quae pars naturae neglegatur? Qualem igitur hominem
