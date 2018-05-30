@@ -4,7 +4,7 @@ Referatsthemen
 *[Zur Startseite](index.md)*
 
 - [27. April: Ein Überblick über FLOSS-Lizenzen *(astiefvater)*](themen/lizenzen/index.md)
-- [27. April: Wie kann ich zu Projekten beitragen *(dkopatz)*](#)
+- [27. April: Wie kann ich zu Projekten beitragen *(dkopatz)*](themen/beitragen/index.md)
 - [4. Mai: Der Umgang mit Bugs *(ashek)*](#)
 - [4. Mai: Code- und Versionsverwaltung *(mklpiening)*](#)
 - *11. Mai: Keine Veranstaltung (Christi Himmelfahrt)*
