@@ -4,7 +4,7 @@ Beiträge zu FLOSS-Projekten
 *[Zur Startseite](./)*
 
 - [22. Juni: Projekt X *(jdoe)*](#)
-- [22. Juni:](#)
+- [22. Juni: Yarn *(kkuhr)*](#)
 - [22. Juni:](#)
 - [22. Juni:](#)
 - [22. Juni:](#)
