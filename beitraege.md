@@ -14,4 +14,4 @@ Beiträge zu FLOSS-Projekten
 - [29. Juni: *ashek*](#)
 - [29. Juni: Zim *(astiefvater)*](#)
 - [29. Juni: rambox *(pluettmann)*](#)
-- [29. Juni:](#)
+- [29. Juni: coala *(dkopatz)*](#)
