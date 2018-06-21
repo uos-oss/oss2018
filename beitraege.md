@@ -15,4 +15,4 @@ Beiträge zu FLOSS-Projekten
 - [29. Juni: Zim *(astiefvater)*](#)
 - [29. Juni: rambox *(pluettmann)*](#)
 - [29. Juni: coala *(dkopatz)*](#)
-- [29. Juni: (ekeser) (#)]
+- [29. Juni: *ekeser*](
