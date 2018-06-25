@@ -14,4 +14,4 @@ Beiträge zu FLOSS-Projekten
 - [29. Juni: Zim *(astiefvater)*](#)
 - [29. Juni: rambox *(pluettmann)*](#)
 - [29. Juni: (ekeser)](#)
-- [29. Juni: tba *(ottker)*](#)
+- [29. Juni: mas *(ottker)*](https://github.com/mas-cli/mas)
