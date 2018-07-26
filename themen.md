@@ -11,7 +11,7 @@ Referatsthemen
 - *18. Mai: Keine Veranstaltung (Pfingsten)*
 - [25. Mai: FLOSS-Ökosysteme *(rmirau)*](#)
 - [1. Juni: FLOSS in kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*](#)
-- [1. Juni: Motivation von Open-Source-Entwicklern *(pluettmann)*](#)
+- [1. Juni: Motivation von Open-Source-Entwicklern *(pluettmann)*](themen/motivation/index.md)
 - [8. Juni: Entscheidungs- und Machtstrukturen *(ottker)*](#)
 - [8. Juni: Fallstricke bei der FLOSS-Nutzung- und Entwicklung *(tillz)*](#)
 - [15. Juni: Versionsnummern und Releasepolitik *(KarolinePlum)*](#)
