@@ -9,6 +9,7 @@ Inhalt
 3. [Grundlegende Strukturen von VCS](#strukturen)
 4. [Speicherung der Versionen](#speicherung)
 5. [Vorstellung einiger Versionsverwaltungssysteme](#vorstellung)
+6. [Fazit](#fazit)
 
 Einleitung
 ----------
@@ -99,3 +100,8 @@ Das nächste Versionsverwaltungssystem ist das bereits in der Einleitung angespr
 Mercurial ist genau wie Git ein Versionsverwaltungssystem, welches dazu entwickelt wurde, um BitKeeper beim Linux Kernel Projekt zu ersetzen und wurde ebenfalls 2005 unter der gnu gpl v2 open Source Lizenz von Matt Mackall veröffentlicht. Mercurial verlor jedoch bei der Wahl des nächsten Versionsverwaltungssystems für das Linux Projekt gegen Git. Genau wie Git ist Mercurial verteilt und hat eine sehr ähnliche Schnittstelle. Mercurial nutzt aber für die Versionen sowohl Snapshots, als auch Forward Deltas. Dabei wird nach einer bestimmten Anzahl von Deltas ein Snapshot erszellt. Dadurch sinkt sowohl die Zugriffszeit im Gegensatz zu reinen Delta Repräsentationen, als auch der Speicherverbrauch im Gegensatz zu reinen Snapshot Repräsentationen. Mercurial wird heutzutage noch sehr häufig, aber seltener als Git eingesetzt.
 
 Das letzte Versionsverwaltungssysten, das hier vorgestellt wird, ist der Team Foundation Server, welcher 2006 von Microsoft veröffentlicht wurde. Der Team Foundation Server besteht nicht nur aus einer Versionsverwaltung, sondern beinhaltet auch viele Tools für Entwicklerteams. Dazu gehören zum Beispiel Scrum Product Backlogs oder Grafische Oberflächen. Das System ist proprietär, arbeitet zentralisiert und arbeitet bei den Versionen mit Rückwärtsdeltas. Mittlerweile hat sich Microsoft mit dem Team Foundation Server etwas vom eigenen Versioneverwaltungssystem entfernt und stattdessen einen Git Service eingebaut.
+
+Fazit
+-----
+
+Abschließend stellt sich nun die Frage, welches Versionsverwaltungssystem nun das optimale ist. Als Antwort kann man nur sagen, dass es ganz auf den Anwendungsfall ankommt. Fragen wie "Arbeitet man allein?", "Benötigt man einen schnellen Zugriff auf ältere Versionen?", "Ist der Speicherbedarf unwichtig?" und viele weitere müssen beantwortet werden, um das optimale Versionsverwaltungssystem für den eigenen Anwendungsfall zu finden, aber für die meisten Anwendungsfälle ist das offline Arbeiten und die Möglichkeit der Zusammenarbeit mit Anderen nicht uninteressant. Außerdem hilft eine Branching Unterstützung auch bei Parallelem Arbeiten an verschieden Aufgaben bei nur einem Entwickler oft weiter und vereinfacht die Planung und Verwaltung des Projekts. Aus diesen Gründen kann man sagen, dass für die meisten Anwendungsfälle ein Versionsverwaltungssystem wie Git, oder Mercurial den Anforderungen besser gerecht wird als andere Versionsverwaltungssysteme.
