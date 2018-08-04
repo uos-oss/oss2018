@@ -5,8 +5,8 @@ Ein Überblick über Code- und Versionsverwaltungssysteme
 Inhalt
 ------
 1. [Einleitung](#einleitung)
-2. [Zielgruppe von Versionsverwaltungssystemen](#zielgruppe)
-2. [Grundlegende Strukturen von VCS](#strukturen)
+2. [Zielgruppe von Versionsverwaltungssystemen](#Zielgruppe von Versionsverwaltungssystemen)
+2. [Grundlegende Strukturen von VCS](#Grundlegende Strukturen von VCS)
 
 Einleitung
 ----------
