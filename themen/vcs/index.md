@@ -5,8 +5,8 @@ Ein Überblick über Code- und Versionsverwaltungssysteme
 Inhalt
 ------
 1. [Einleitung](#einleitung)
-2. [Zielgruppe von Versionsverwaltungssystemen](#Zielgruppe von Versionsverwaltungssystemen)
-2. [Grundlegende Strukturen von VCS](#Grundlegende Strukturen von VCS)
+2. [Zielgruppe von Versionsverwaltungssystemen](#zielgruppe)
+2. [Grundlegende Strukturen von VCS](#strukturen)
 
 Einleitung
 ----------
@@ -27,4 +27,5 @@ Grundlegende Strukturen von VCS
 
 Um den Vergleich zwischen Versionsverwaltungssystemen zu ermöglichen, werden Informationen über die interne Struktur solcher Systeme benötigt, da aus der internen Struktur auch direkt Ideen und Ansätze für die Schnittstelle des jeweiligen Systems folgen. Außerdem sind die internen Strukturen nicht unwichtig für den Workflow, den diese Versionsverwaltungssysteme haben.
 Grundsätzlich existieren drei Aufbauten von Versionsverwaltungssystemen. Dazu gehört der lokale, der zentralisierte und der verteilte Ansatz des Aufbaus.
-Beim lokalen Ansatz handelt es sich um den einfachsten der drei Ansätze. Er barisert darauf, dass
+Beim lokalen Ansatz handelt es sich um den einfachsten der drei Ansätze. Er basiert darauf, dass alle Änderungen lokal abgelegt und verwaltet werden. Dies ist in dieser Abbildung vereinfacht veranschaulicht:
+![alt text](img/vcs_local.png "lokales VCS")
