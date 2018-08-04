@@ -6,7 +6,8 @@ Inhalt
 ------
 1. [Einleitung](#einleitung)
 2. [Zielgruppe von Versionsverwaltungssystemen](#zielgruppe)
-2. [Grundlegende Strukturen von VCS](#strukturen)
+3. [Grundlegende Strukturen von VCS](#strukturen)
+4. [Speicherung der Versionen](#speicherung)
 
 Einleitung
 ----------
@@ -36,7 +37,7 @@ Beim lokalen Ansatz handelt es sich um den einfachsten der drei Ansätze. Er bas
 
 <img src="img/vcs_local.png" height="300">
 
-Hier kann man sehr gut erkennen, dass alle Versionen lokal auf dem Rechner abgelegt sind und die aktuell genutzte Datei auf einer Version aus der Datenbank basiert. Nachteile hierbei sind zum Beispiel, dass Änderungen nicht mit anderen Synchronisiert werden, sodass ein Arbeiten im Team mit diesem Ansatz nicht besonders angenehm sein kann. Auch besteht das Problem, dass bei einem Defekt des Datenspeichers des Rechners direkt alle Daten und Versionen verloren sind. Eine Lösung für dieses Problem wären Backups, welche jedoch gegen den Sinn eines Versionsverwaltungssystems stehen.
+Versionen beschreiben hierbei Zustände der versionierten Datei, auf die die aktuelle Datei zurückgesetzt werden kann. In diesem Diagramm kann man sehr gut erkennen, dass alle Versionen lokal auf dem Rechner abgelegt sind und die aktuell genutzte Datei auf einer Version aus der Datenbank basiert. Nachteile hierbei sind zum Beispiel, dass Änderungen nicht mit anderen Synchronisiert werden, sodass ein Arbeiten im Team mit diesem Ansatz nicht besonders angenehm sein kann. Auch besteht das Problem, dass bei einem Defekt des Datenspeichers des Rechners direkt alle Daten und Versionen verloren sind. Eine Lösung für dieses Problem wären Backups, welche jedoch gegen den Sinn eines Versionsverwaltungssystems stehen.
 
 Der Zentrale Ansatz versucht, das Problem der Zusammenarbeit zu beheben und damit eine solche Zusammenarbeit am selben Projekt problemlos und möglichst konfliktfrei zu ermöglichen. Dabei werden alle Versionen auf den Server ausgelagert. Die aktuell bearbeiteten Dateien liegen aber bei den Clients, verweisen aber auf die Version, auf der sie basieren, welche auf dem Server liegt. Die folgende Abbildung stellt diesen Aufbau vereinfacht dar:
 
@@ -51,3 +52,32 @@ Bei diesem Ansatz Liegen alle Versionen sowohl bei den Clients, als auch auf den
 <img src="img/vcs_decentral.png" height="350">
 
 Durch diese Struktur wird es möglich, offline neue Versionen zu erstellen und auch auf ältere Versionen zuzugreifen. Die synchronisierung ist weiterhin nur Online möglich. Auch das Problem der Datenverluste wird durch dieses System behoben, da beim Datenverlust eines Teilnehmers dieses Systems die Daten mit einem anderen Teilenhmer wieder synchronisiert werden können, wodurch die Daten in den meisten Fällen wiederhergestellt werden können.
+
+Speicherung der Versionen
+-------------------------
+
+In der letzten Sektion war wiederholt die Rede von Versionen. Dabei stellt sich die Frage, wie solche Versionen auf dem Rechner dargestellt und abgespeichert werden.
+
+Auch hierbei gibt es verschiedene Ansätze, welche einmal die Deltas und einmal die Snapshots sind.
+Die Deltas lassen sich dabei weiter in Vorwärts- und Rückwärtsdeltas aufteilen. 
+
+Bei Vorwärtsdeltas ist die zuerst erstellte Version einer Datei vollständig abgespeichtert. Alle darauffolgenden Versionen sind nur als meist zeilenweise Unterschiede zu ihrem Vorgängerzustand abgelegt. Dadurch wird der Zugriff auf ältere Versionen schneller und der Zustand auf neuere Zustände verzägert sich.
+Die folgende Abbildung zeigt einen solchen Aufbau. Dabei ist das grün markierte Element komplett abgespeichert und die grauen Elemente sind Deltas.
+
+<img src="img/forward_delta.png" height="200">
+
+Rückwärtsdeltas arbeiten genau in die entgegengesetzte Richtung. Bei ihnen ist der neuste Zustand komplett abgespeichert und alle Vorgängerversionen sind mit Unterschieden zu iherer Nachfolgerversion versehen. Das führt zu einem schnellen Zugriff auf die neueren Versionen und einem umso Langsameren auf die älteren Versionen.
+Diese Abbildung zeigt reverse Deltas:
+
+<img src="img/reverse_delta.png" height="200">
+
+Welcher der beiden Deltas nun besser ist, kommt ganz auf den Anwendungsfall an. In den meisten Fällen wird jedoch ein Zugriff auf die neueren Versionen häufiger vorkommen als ein Zugriff auf die älteren Versionen, weshalb meistens die Rückwärtsdeltas zu empfehlen sind.
+
+Ein Nachteil dieser Delta Repräsentation ist jedoch, dass für den Fall eines Datenverlusts in einer Version alle Versionen, die von dieser fehlerhaften Version ableiten, ebenfalls fehlerhaft sind. Es existieren jedoch Ansätze und Implementation, die dieses Problem weniger kritisch machen.
+
+Als alternative zu den Deltas existiert auch die Versionssicherung durch Shapshots. Hierbei wird jede Version einzeln Abgespeichert, oder die vorherige Version referenziert, falls es keine Änderungen in der jeweiligen Datei gab. Im Fall einer Referenzierung wird nicht wieder die gesammte Datei abgespeichert, sondern nur eine Referenz auf die letzte Version der jeweiligen Datei.
+Die folgende Abbildung stellt diese Snapshots dar. Dabei sind grau markierte Elemente referenzierte Versionen und grün markierte Elemente als Snapshot ablegt. die Version 0 ist die erste Version und die Version 2 die Aktuellste.
+
+<img src="img/snapshot.png" height="200">
+
+Vorteile dieser Repräsentation sind z.B. die Sicherheit vor Fehlern in einer Version. Tritt nämlich ein Datenverlust in einer Version auf, ist nur diese Version und gegebenenfalls die diese Version referenzierenden Versionen betroffen. Ein großer Nachteil ist aber die der Speicherverbrauch, welcher um einiges größer ausfällt as bei Deltas.
