@@ -12,16 +12,17 @@ Wie kann ich zu Projekten beitragen
 
 Inhalt
 =
-1. *[Einleitung](#Einleitung)*
+1. *[Vorwort](#Vorwort)*
 2. *[Was zählt alles als Beitrag?](#Beitrag)*
 3. *[Worauf muss ich achten?](#Worauf)*
 4. *[Wie kann ich Beitragen?](#Wie?)*
 5. *[Schlusswort](#Schluss)*
 
 
-Einleitung
+Vorwort
 =
-Der schwierigste Teil 
+Aus meiner Sicht ist der schwierigste Teil der Open Source Welt ein Teil davon zu werden. Ziel dieser Ausarbeitung ist es deshalb einen Leitfaden zu bieten der den Einstieg in diese Welt erleichtert. 
 
 Was zählt alles als Beitrag?
 =
+Als ich mir das erste mal Gedanken dazu gemacht habe wie ich zu einem Projekt beitragen kann hatte ich hauptsächlich Codezeilen im Kopf. Stattdessen bietet die Open Source Welt jedem die Möglichkeit auf verschiedenste Arten beizutragen.
