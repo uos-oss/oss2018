@@ -65,3 +65,10 @@ Der nächste Schritt ist es sich die README.md durchzulesen hier sollten die wic
 Als letztes sollte man sich noch die CONTRIBUTING.md durchlesen. Hier sollten explizite Hinweise dazu stehen wie man in den Bereichen in denen aktiv nach Hilfe gesucht wird partizipieren kann. Außerdem sollten hier Style-Guides beschrieben oder verlinkt sein, wenn welche vorhanden sind.
 
 Unabhängig vom Inhalt der CONTRIBUTING.md kann man natürlich trotzdem Vorschläge für andere Beiträge machen. Durch lesen dieser und der README.md sollte man gemerkt haben ob Foren oder Chats für Contributer genutzt werden. Diese sollten die erste Anlaufstelle für solche Anfragen sein, wenn solche Stellen nicht vorhanden sind ist es wohl am sinnvollsten einen Issue zu eröffnen und hierüber die nötigen Kontakte zu knüpfen. 
+
+
+
+Wie kann ich beitragen?
+=
+Wenn man dieses Text bis hierhin gelesen hat sollte man schon eine grobe Idee haben wie man einen Beitrag leisten kann, aber in diesem Kapitel wird es noch etwas konkreter. Da Codebeiträge wohl doch die häufigsten Beiträge sind möchte ich in diesem Kapitel an solch einem Beispiel durcharbeiten. 
+
