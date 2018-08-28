@@ -43,8 +43,25 @@ Dann kannst du am besten in den Github-Repositorys des Projektes nach Issue-Dopp
 
 Beantworte Fragen über das OS-Projekt oder beantworte Fragen in offenen Issues. Wenn man mehr Erfahrung mit der Software hat kann man auch ein Tutorial schreiben.
 
+**Wie jeder Anwender beitragen kann**
+
+Jeder Anwender kann einen Beitrag zu einem Projekt leisten in dem er die Software aufmerksam benutzt. Findet man einen Fehler in der Software sollte man sich nicht einfach über diesen aufregen sondern diesen stattdessen innerhalb eines Issues referenzieren. Außerdem kann man wenn einem eine Funktion fehlt eine neue "Feature request" machen, damit andere diese hoffentlich umsetzen falls man dies selbst nicht kann. Allerdings sollten nur Features vorgeschlagen werden welche man selbst benötigt um den Entwicklern unnötige Arbeit zu ersparen. 
+
 **Für Programmierer**
 
 Aber natürlich kann man auch als Programmierer seinen Beitrag zu dem Open Source Projekt leisten. Wenn man möchte kann man einen Issue lösen oder ein neues Feature hinzufügen. Außerdem kann man die Installation automatisieren oder automatische Tests für neue Features oder die Lösung von Issues schreiben.
 
-Aber es gibt natürlich auch ganz viele andere Möglichkeiten den Projekten zu helfen.
+Aber es gibt natürlich noch viele andere Möglichkeiten den Projekten zu helfen.
+
+
+Worauf muss ich vor meinem Beitrag achten?
+=
+Bevor man einen Beitrag für ein Projekt leistet sollte man einige Dinge beachten bevor man mit diesem anfängt.
+
+Der erste Schritt sollte sein zu überprüfen wann der letzte Commit des Projektes stattgefunden hat. Liegt dieser schon mehrere Monate zurück und gibt es mehrere offene Pull Requests die nicht bearbeitet wurden ist es gut möglich, dass dieses Projekt eingestellt wurde oder nicht mehr aktiv gewartet wird. Ist dies der Fall sollte wohl besser ein anderes Projekt gewählt werden.
+
+Der nächste Schritt ist es sich die README.md durchzulesen hier sollten die wichtigsten Punkte über das Projekt stehen oder auf diese verlinkt werden. So sollte man als erstes lernen wie man die Software benutzt und wozu diese fähig ist.
+
+Als letztes sollte man sich noch die CONTRIBUTING.md durchlesen. Hier sollten explizite Hinweise dazu stehen wie man in den Bereichen in denen aktiv nach Hilfe gesucht wird partizipieren kann. Außerdem sollten hier Style-Guides beschrieben oder verlinkt sein, wenn welche vorhanden sind.
+
+Unabhängig vom Inhalt der CONTRIBUTING.md kann man natürlich trotzdem Vorschläge für andere Beiträge machen. Durch lesen dieser und der README.md sollte man gemerkt haben ob Foren oder Chats für Contributer genutzt werden. Diese sollten die erste Anlaufstelle für solche Anfragen sein, wenn solche Stellen nicht vorhanden sind ist es wohl am sinnvollsten einen Issue zu eröffnen und hierüber die nötigen Kontakte zu knüpfen. 
