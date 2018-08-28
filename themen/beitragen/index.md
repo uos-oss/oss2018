@@ -72,3 +72,4 @@ Wie kann ich beitragen?
 =
 Wenn man dieses Text bis hierhin gelesen hat sollte man schon eine grobe Idee haben wie man einen Beitrag leisten kann, aber in diesem Kapitel wird es noch etwas konkreter. Da Codebeiträge wohl doch die häufigsten Beiträge sind möchte ich in diesem Kapitel an solch einem Beispiel durcharbeiten. 
 
+Nachdem man nun die Schritte aus dem letzten Kapitel durchgearbeitet hat kann man sich nun einen Issue heraussuchen. Diese sind in der Regel mit verschiedenen Tags versehen und man sollte sich mit der Hilfe von diesen einen passenden heraussuchen (z.B. "python" wenn man diese bestimmte Programmiersprache oder z.B. "beginner", "first-timers-only" wenn man gerade mit Open Source Projekten anfängt). Hat man sich nun einen passenden Issue herausgesucht sollte man unter diesen Issue schauen ob dieser schon von jemandem bearbeitet wird und wenn er dies nicht wird sollte man einen Post darunter schreiben, dass man diesen bearbeiten möchten.
