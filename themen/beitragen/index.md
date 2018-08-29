@@ -74,5 +74,18 @@ Wenn man dieses Text bis hierhin gelesen hat sollte man schon eine grobe Idee ha
 
 Nachdem man nun die Schritte aus dem letzten Kapitel durchgearbeitet hat kann man sich nun einen Issue heraussuchen. Diese sind in der Regel mit verschiedenen Tags versehen und man sollte sich mit der Hilfe von diesen einen passenden heraussuchen (z.B. "python" wenn man diese bestimmte Programmiersprache oder z.B. "beginner", "first-timers-only" wenn man gerade mit Open Source Projekten anfängt). Hat man sich nun einen passenden Issue herausgesucht sollte man unter diesen Issue schauen ob dieser schon von jemandem bearbeitet wird und wenn er dies nicht wird sollte man einen Post darunter schreiben, dass man diesen bearbeiten möchten.
 
-Nun muss man den gewählten Issue auch bearbeiten. Dazu muss man das Repository forken, die nötigen Änderungen durchführen und anschließend eien Pull Request machen. Um dies genauer nachzulesen und einmal zu testen empfehle ich Repository von Roshanjossey *[first-contributions](https://github.com/Roshanjossey/first-contributions)*
+Nun muss man den gewählten Issue auch bearbeiten. Dazu muss man das Repository forken, die nötigen Änderungen durchführen und anschließend eine Pull Request machen. Für jeden der dem letzten Satz nicht folgen konnte empfehle ich das Repository von Roshanjossey *[first-contributions](https://github.com/Roshanjossey/first-contributions)*. Hier wird sehr detailliert erklärt wie man eine Pull Request mit den nötigen Vorbereitungen durchführt. Außerdem kann jeder der möchte hier eine beispielhafte Pull Request durchführen bei der man seinen Github-Account innerhalb des Repositorys verlinkt. 
 
+Nach der Pull-Request können nun mehrere Sachen mit dem Beitrag geschehen:
+
+- **Man bekommt keine Antwort:** 
+Auch wenn man im vorraus überpruft wurde, dass das Projekt noch aktiv ist kann es passieren das man keine Antwort bekommt. In diesem Fall sollte man etwas nachsichtig sein, natürlich darf man nach etwa einer Woche noch einmal freundlich nachfragen um auszuschließen, dass die eigene Nachricht einfach übersehen wurde. Auch wenn man trotzdem keine Antwort bekommt darf man sich nicht deprimieren lassen. Es gibt diverse, ggf. persönliche, Gründe die man nicht kontrollieren kann, weshalb man keine Antwort bekommen hat. **In keinem Fall** sollte man verantwortlichen Personen persönlich anschreiben, dies kann sehr unfreundlich und bedrängend wirken. Schließlich muss man immer im Hinterkopf behalten, dass die meisten Nutzer freiwillig an den verschiedenen OS-Projekten arbeiten.
+
+- **Jemand schlägt kleine Änderungen vor:**
+Wenn jemand dir geantwortet hat und kleinere Änderungen vorschlägt ist schon die Hälfte geschafft. Gerade bei den ersten Beiträgen zu einem Projekt sollte man immer damit rechnen, dass noch kleinere Änderungen durchgeführt werden müsssen, da man selbst oft viele Kleinigkeiten vor allem bei den verschiedenen Style-Guides übersehen kann. Nachdem man die kleinen Korrekturen durchgeführt hat, macht man erneut eine Pull-Request und wartet erneut.
+
+- **Die Pull-Request wird abgelehnt:**
+Es ist immer möglich, dass eine Anfrage abgelehnt wird. Dies ist die Entscheidung der Verantwortlichen, natürlich darf man nun nach Feedback fragen, aber man muss die grundsätzliche Entscheidung der Ablehnung akzeptieren. Dies kann je nach aufgewandter Arbeit eine bittere Pille sein, aber im zweifelsfall ist es jedem Nutzer freigestellt einen eigenen Fork aufzumachen um das Projekt in seine eigene Richtung zu lenken.
+
+- **Die Pull-Request wird angenommen:**
+Herzlichen Glückwunsch! Du hast nun deinen ersten, erfolgreichen Beitrag zu einem Open-Source-Projekt geleistet. Von hier kann man entweder tiefer in das vorangegangene Projekt eintauchen oder wenn man eher unzufrieden war sich einfach ein neues Projekt suchen.
