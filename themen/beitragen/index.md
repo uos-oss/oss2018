@@ -3,20 +3,14 @@ Wie kann ich zu Projekten beitragen
 
 *[Zur Themenübersicht](../themen.md)*
 
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)
-- [First Contribution](https://github.com/Roshanjossey/first-contributions)
-- [First Timers Only](https://github.com/search?q=label:first-timers-only&state=open&type=Issues)
-- [Up for Grabs](https://up-for-grabs.net/#/)
-
-
-
 Inhalt
 =
 1. *[Vorwort](#Vorwort)*
 2. *[Was zählt alles als Beitrag?](#Beitrag)*
-3. *[Worauf muss ich achten?](#Worauf)*
-4. *[Wie kann ich Beitragen?](#Wie?)*
-5. *[Schlusswort](#Schluss)*
+3. *[Wie finde ich ein passendes Projekt?](#Projekt)*
+4. *[Worauf muss ich achten?](#Worauf)*
+5. *[Wie kann ich Beitragen?](#Wie?)*
+6. *[Schlusswort](#Schluss)*
 
 
 Vorwort
@@ -67,6 +61,18 @@ Als letztes sollte man sich noch die CONTRIBUTING.md durchlesen. Hier sollten ex
 Unabhängig vom Inhalt der CONTRIBUTING.md kann man natürlich trotzdem Vorschläge für andere Beiträge machen. Durch lesen dieser und der README.md sollte man gemerkt haben ob Foren oder Chats für Contributer genutzt werden. Diese sollten die erste Anlaufstelle für solche Anfragen sein, wenn solche Stellen nicht vorhanden sind ist es wohl am sinnvollsten einen Issue zu eröffnen und hierüber die nötigen Kontakte zu knüpfen. 
 
 
+Wie finde ich ein passendes Projekt?
+=
+Diese Aufgabe kann sich unter Umständen als sehr kompliziert gestalten. Hat man schon Erfahrung mit einem Open Source Projekt ist es sinnvoll sich dieses als erstes anzuschauen, da so ggf. einiges an Einarbeitungszeit entfällt. 
+
+**Wie entscheide ich ob das Projekt passt?**
+Ob ein Projekt zu einem passt muss jeder persönlich entscheiden, aber es gibt mehrere Punkte die jedem helfen sich zu orientieren:
+
+- Welche Programmiersprache/n wird/werden für das Projekt benutzt?
+- Gibt es bei den Issues passende Tags?
+- Ist das Projekt ausreichend dokumentiert um einen einfachen Start zu haben?
+
+Es gibt diverse Seiten, die speziell dafür gemacht wurden sich einen Überblick über diverse Projekte zu schaffen. Ich empfehle besonders [Up for Grabs](https://up-for-grabs.net/#/). Hier kann man sehr einfach nach Programmiersprachen und Tags filtern, wodurch man relativ einfach potenzielle Projekte finden kann.
 
 Wie kann ich beitragen?
 =
@@ -89,3 +95,15 @@ Es ist immer möglich, dass eine Anfrage abgelehnt wird. Dies ist die Entscheidu
 
 - **Die Pull-Request wird angenommen:**
 Herzlichen Glückwunsch! Du hast nun deinen ersten, erfolgreichen Beitrag zu einem Open-Source-Projekt geleistet. Von hier kann man entweder tiefer in das vorangegangene Projekt eintauchen oder wenn man eher unzufrieden war sich einfach ein neues Projekt suchen.
+
+
+Schlusswort
+=
+Ich hoffe dieser Leitfaden konnte die ersten Schritte innerhalb der Open Source Welt erleichtern.
+
+Abschließend möchte ich noch auf einige Links verweisen die weitere Informationen vermitteln und dieser AUsarbeitung teilweise als Quelle dienten.
+
+
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612)
+- [First Timers Only](https://github.com/search?q=label:first-timers-only&state=open&type=Issues)
+- [How to Contribute](https://opensource.guide/how-to-contribute/)
