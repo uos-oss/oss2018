@@ -78,6 +78,7 @@
     den neuen Trend der Closed-Software gegenzusteuern.
   - Für die Unternehmen ist es weniger Aufwand sich nur um die Bereitstellung
     der Software über ein Verteilungsweg zu kümmern.
+
   Ein interessanter Fakt: 1976 schrieb Bill Gates einen öffentlichen Brief, in
   dem er beklagt, dass nicht einmal 10% aller Altair BASIC Nutzer, diese
   Software gekauft haben und er es unfair findet, kein Verdienst für die
@@ -145,6 +146,7 @@
     because of the wide utility of highly commoditized, simple protocols. By
     extending these protocols and developing new protocols, we can deny OSS
     projects entry into the market."
+
   Man erkennt die Angst von Microsoft, gegen OSS konkurrieren zu
   müssen. Es wurde versucht die "Fear, Uncertainty and Doubt" (FUD) Methode
   anzuwenden, die übersetzt so viel bedeutet wie "Furcht, Ungewissheit und
@@ -260,6 +262,7 @@
   - HHVM: PHP (BDS ähnlich)
   - Swift: Apache 2.0
   - go (compiler, libraries): BSD
+
   Weshalb Lizenzen ohne Copyleft verwendet werden sollte eindeutig sein: Falls
   man eine Copyleft-Lizenz verwenden würde, müssten wiederum alle Projekte
   freigegeben werden, die diese Software nutzen. Folglich müssten alle
