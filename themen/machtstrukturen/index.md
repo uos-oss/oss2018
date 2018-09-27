@@ -8,5 +8,5 @@ Beim *Benovelent Dictator Governance Model* werden alle endgültigen Entscheidun
 Dokumente
 ---------
 
-* [Ausarbeitung](machstrukturen.pdf)
+* [Ausarbeitung](machtstrukturen.pdf)
 * [Präsentation](presentation.pdf)
