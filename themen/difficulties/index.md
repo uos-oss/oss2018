@@ -12,3 +12,6 @@ welche Fehler unbedingt vermieden werden sollten.
 
 Dabei wird sowohl auf Fallstricke bei der Entwicklung in Open-Source-Projekten selber,
 wie auch auf Schwierigkeiten bei der Nutzung eingegangen.
+
+* [Ausarbeitung](ausarbeitung.pdf)
+* [Präsentation](slides.pdf)
