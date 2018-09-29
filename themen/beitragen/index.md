@@ -54,11 +54,11 @@ Bevor man einen Beitrag für ein Projekt leistet sollte man einige Dinge beachte
 
 Der erste Schritt sollte sein zu überprüfen wann der letzte Commit des Projektes stattgefunden hat. Liegt dieser schon mehrere Monate zurück und gibt es mehrere offene Pull Requests die nicht bearbeitet wurden ist es gut möglich, dass dieses Projekt eingestellt wurde oder nicht mehr aktiv gewartet wird. Ist dies der Fall sollte wohl besser ein anderes Projekt gewählt werden[(1)](https://opensource.guide/how-to-contribute/).
 
-Der nächste Schritt ist es sich die README.md durchzulesen hier sollten die wichtigsten Punkte über das Projekt stehen oder auf diese verlinkt werden. So sollte man als erstes lernen wie man die Software benutzt und wozu diese fähig ist.
+Der nächste Schritt ist es sich die README.md durchzulesen hier sollten die wichtigsten Punkte über das Projekt stehen oder auf diese verlinkt werden. So sollte man als erstes lernen wie man die Software benutzt und wozu diese fähig ist[(1)](https://opensource.guide/how-to-contribute/). 
 
 Als letztes sollte man sich noch die CONTRIBUTING.md durchlesen. Hier sollten explizite Hinweise dazu stehen wie man in den Bereichen in denen aktiv nach Hilfe gesucht wird partizipieren kann. Außerdem sollten hier Style-Guides beschrieben oder verlinkt sein, wenn welche vorhanden sind[(1)](https://opensource.guide/how-to-contribute/).
 
-Unabhängig vom Inhalt der CONTRIBUTING.md kann man natürlich trotzdem Vorschläge für andere Beiträge machen. Durch lesen dieser und der README.md sollte man gemerkt haben ob Foren oder Chats für Contributer genutzt werden. Diese sollten die erste Anlaufstelle für solche Anfragen sein, wenn solche Stellen nicht vorhanden sind ist es wohl am sinnvollsten einen Issue zu eröffnen und hierüber die nötigen Kontakte zu knüpfen[(1)](https://opensource.guide/how-to-contribute/). 
+Unabhängig vom Inhalt der CONTRIBUTING.md kann man natürlich trotzdem Vorschläge für andere Beiträge machen. Durch lesen dieser und der README.md sollte man gemerkt haben ob Foren oder Chats für Contributer genutzt werden. Diese sollten die erste Anlaufstelle für solche Anfragen sein, wenn solche Stellen nicht vorhanden sind ist es wohl am sinnvollsten einen Issue zu eröffnen und hierüber die nötigen Kontakte zu knüpfen.
 
 
 Wie finde ich ein passendes Projekt?
