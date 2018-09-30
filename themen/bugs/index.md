@@ -3,20 +3,21 @@
 
 
 ## **Kurzfassung**
-
+=
 In dieser Ausarbeitung wird die Geschichte bzw. die Herkunft von Softwarefehler, häufig auch Bugs (englisch) erläutert. Ebenso soll das Verhältnis zwischen Bugs und deren Organisation/Management innerhalb Free/Libre Open Source Software (FLOSS) übermittelt werden. 
 ## **Inhaltsverzeichnis**
-1. [Bugs](#geschichte)
-1.1 [Geschichte](#geschichte)
-1.2 [Definition](#definition)
-1.3 [Bugs vs. Features](#bugs-vs.-features)
-2. [Issue-Tracking-System (ITS)](#issue-tracking-system-(its))
-2.1 [Github Issues](#github-issues)
-2.2 [Jira](#jira)
-3. [Security Bugs](#security-bugs)
-4. [Fuzzing](#fuzzing)
-5. [Fazit](#fazit)
-6. [Quellen](#quellen)
+=
+1. [Bugs](#Geschichte)
+1.1 [Geschichte](#Geschichte)
+1.2 [Definition](#Sefinition)
+1.3 [Bugs vs. Features](#Bugs-vs.-features)
+2. [Issue-Tracking-System (ITS)](#Issue-tracking-system-(its))
+2.1 [Github Issues](#Github-issues)
+2.2 [Jira](#Jira)
+3. [Security Bugs](#Security-bugs)
+4. [Fuzzing](#Fuzzing)
+5. [Fazit](#Fazit)
+6. [Quellen](#Quellen)
 ---
 
 **Geschichte** 
