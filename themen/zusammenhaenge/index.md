@@ -12,28 +12,26 @@ Inhalt
 
 Einleitung
 ==========
-Es liegt in der Natur von Free/Libre Open Source Software (FLOSS) Projekten, dass diese im Zusammenhang stehen zu
-anderen FLOSS-Projekten. Diese Zusammenhänge können aus unterschiedlichen Formen bestehen.
-Zum einen könnten andere FLOSS-Projekte als Tools in der Entwicklung (zum Beispiel ein Compiler, Paketmanager)
-genutzt werden. Auch ist es üblich andere FLOSS-Projekte als Software-Bibliothek ein zu binden und innerhalb des
-Projekts auf diese zu zugreifen. Des weiteren kann der Fall auftreten, dass ein anderes FLOSS-Projekt als Inspiration
-oder direkter Konkurrent auftritt, der ähnliche Features bietet. Ein besonderes Phänomen in freier Software ist das
-Konzept des Forks, auf die in dem folgenden Dokument genauer eingegangen werden soll.
+Die meisten Free/Libre Open Source Software (FLOSS) Projekte stehen im Zusammenhang zu anderen FLOSS-Projekten.
+Diese Zusammenhänge können aus unterschiedlichen Formen bestehen. Zum einen werden andere FLOSS-Projekte als Tools
+in der Entwicklung (zum Beispiel als Compiler, Paketmanager) genutzt. Auch ist es üblich andere FLOSS-Projekte als
+Software-Bibliothek einzubinden. Des weiteren kann der Fall auftreten, dass ein anderes FLOSS-Projekt als Inspiration
+gilt oder die selben Features bietet. Ein besonderes Phänomen in freier Software ist das Konzept der Forks, auf die in
+diesem Dokument genauer eingegangen werden soll.
 
 
 Was ist ein Fork?
 =================
-Als Fork wird in der freier Software Projekt bezeichnet, welches sich von einem vorher bereits bestehendem Projekt
-abgespalten hat und von einer neuen Community betreut wird, die unabhängig vom original Projekt ist.
+Als Fork wird in der freier Software ein Projekt bezeichnet, welches sich von einem vorher bereits bestehendem Projekt
+abgespalten hat und von einer neuen Community betreut wird, die unabhängig vom ursprünglichen Projekt ist.
 Der Begriff "Fork" stammt hierbei aus dem POSIX Standard für Betriebssysteme. In diesem ist der Aufruf "fork()"
-so definiert, dass der aktuelle Prozess eine Kopie von sich selbst erzeugt worauf hin zwei Kopien dieses Prozesses
-existieren, die unabhängig von einander sind. Diese Analogie trifft auch auf Forks in freier Software zu.
-Hier existieren nachdem ein fork durchgeführt wurde zwei unabhängige Projekte, die zu einem Zeitpunkt die selbe Code
+so definiert, dass der aktuelle Prozess eine Kopie von sich selbst erzeugt. Daraus entstehen zwei Kopien dieses
+Prozesses, die unabhängig von einander sind. Diese Analogie trifft auch auf Forks in freier Software zu.
+Hier existieren, nachdem ein fork durchgeführt wurde, zwei unabhängige Projekte, die zu einem Zeitpunkt die selbe Code
 Basis hatten. Dieses forken ist ein grundlegendes Recht in freier Software. Jedoch soll von diesem Recht nicht ohne
-gutem Grund Gebrauch gemacht werden. Es soll eher als ein letzter Ausweg gelten, wenn Konflikte oder
+gutem Grund Gebrauch gemacht werden. Es sollte eher als ein letzter Ausweg gelten, wenn Konflikte oder
 Meinungsverschiedenheiten nicht anders gelöst werden können. Ursprünglich war der Prozess des forken dazu gedacht um
-Entwicklern die Möglichkeit zu geben Projekte, die nicht mehr betreut werden weiter zu entwickeln, auch wenn Sie nicht
-der Maintainer dieses Projekts sind.
+Entwicklern die Möglichkeit zu geben, nicht mehr betreute Projekte weiter entwickeln zu können.
 
 
 Studie über Forks
@@ -47,7 +45,7 @@ werden in den nächsten Abschnitten genauer Erläutert.
 
 Wie viele (relevante) Forks gibt es?
 ------------------------------------
-Zuerst wurde die Frage gestellt, wie viele Forks insgesamt existieren. Dabei war die Hypothese die ursprünglich
+Zuerst wurde die Frage gestellt, wie viele Forks insgesamt existieren. Dabei war die Hypothese die
 aufgestellt wurde, dass Forks selten auftreten. Da Forks in der Open Source Community ein sensibles Thema sind und nur
 akzeptiert werden, wenn ein starker Grund für das forken besteht, ist diese Hypothese nachvollziehbar.
 Für die Beantwortung dieser Frage haben die Wissenschaftler alle relevanten Forks in der Geschichte freier Software
@@ -56,24 +54,24 @@ Wikipedia ein Eintrag zu diesem Projekt zu finden ist. Dadurch fanden die Wissen
 von denen 220 tatsächlich eigenständige Forks sind. Außerdem wird in dem Paper angemerkt, dass Projekte, aus denen
 einmal ein Fork entstanden ist dazu tendieren häufiger geforked zu werden. Eine Begründung hierfür sei, dass wenn
 bereits einmal der Schritt des forkens gegangen wurde es nicht mehr so starke Begründungen für einen weiteren Fork
-bedarf, um akzeptiert zu werden. Des weiteren wird angeführt, dass in allen Bereichen von freier Software Forks
-entstehen und diese nicht auf bestimmte Bereiche festgelegt sind.
+bedarf, um akzeptiert zu werden. Außerdem wurden Forks in allen Bereichen von freier Software gefunden, womit diese
+nicht auf bestimmte Bereiche festgelegt sind.
 
 
 Entstehen heutzutage häufiger Forks?
 ------------------------------------
-Die zwiete Hypothese, die aufgestellt wurde war, dass heutzutage häufiger Forks entstehen. Eine Begründung hierfür sei
+Die zweite Hypothese, die aufgestellt wurde war, dass heutzutage häufiger Forks entstehen. Eine Begründung hierfür sei
 laut den Wissenschaftlern zum einen, dass die absolute Anzahl an FLOSS-Projekten exponentiell gestiegen ist in den
-letzten Jahren. Da wäre es nur naheliegend, dass die Anzahl an Forks für diese Projekte ebenfalls ansteigt.
+letzten Jahren. Da wäre es nur naheliegend, dass die Anzahl an Forks ebenfalls ansteigt.
 Außerdem werden heutzutage immer mehr FLOSS-Projekte von Firmen betreut, was dazu führen kann, dass die Firma andere
-Interessen verfolgt, als die Community des Projekts.
+Interessen verfolgt, als die Community des Projekts und deshalb häufiger Forks entstehen.
 
 In dem folgenden Diagramm haben die Wissenschaftler dargestellt, wie das Wachstum an Forks seit 1989 bis 2012 verlief.
-Dies war der Zeitraum seit dem ersten Fork, aus allen zuvor gefundenen Forks:
+Dies war der Zeitraum seit dem ersten Fork:
 
 <img src="img/oss-forks-per-year.png" />
 
-Aus den Ergebnissen heraus wird deutlich, dass die Anzahl an Forks im laufe der Jahre zwar deutlich gestiegen ist,
+Aus den Ergebnissen heraus wird deutlich, dass die Anzahl an Forks im Laufe der Jahre zwar deutlich gestiegen ist,
 jedoch nicht proportional zum Wachstum der Anzahl an FLOSS-Projekten. Stattdessen stieg die Anzahl an Forks eher linear
 und nicht exponentiell.
 
@@ -83,11 +81,9 @@ Was sind die Gründe Für Forks?
 Eine weitere Frage, die von den Wissenschaftlern beantwortet werden sollte, war nach den Gründen für die Entstehung
 von Forks. Hierfür wurden zunächst sechs Kategorien von Gründen definiert, aufgrund dessen ein Projekt geforked werden
 kann:
-- **Technical:** Diese Kategorie beschreibt den Fall, dass manche Entwickler eine neue Funktionalität in das Projekt
-einbauen wollen, jedoch die Verantwortlichen diese Entscheidung nicht unterstützen.
-- **More community-driven development:** Hier ist der Grund für eine Abspaltung, dass mehrere Entwickler das Gefühl
-haben die Community wird nicht genug einbezogen in die Entwicklung des Projekts. Dies entsteht vor allem bei
-FLOSS-Projekten, die von Firmen oder einem einzelnen Maintainer betreut werden.
+- **Technical:** Alle technischen Gründe betreffend Implementation oder Funktionsweise des Projekts.
+- **More community-driven development:** Die Community wird nicht genug einbezogen in die Entwicklung des Projekts.
+Dies entsteht vor allem bei FLOSS-Projekten, die von Firmen oder einem einzelnen Maintainer betreut werden.
 - **Discontinuation of the original project:** Das ursprüngliche Projekt wird nicht weiter betreut und es entsteht eine
 neue Community, die das Projekt weiterführen.
 - **Commercial strategy forks:** Ein Fork entsteht auf Grund einer kommerziellen Strategie für das Projekt.
@@ -100,9 +96,8 @@ jeweils einer Kategorie zugeordnet. Im folgenden sind die Ergebnisse der Analyse
 
 <img src="img/oss-forks-reasons.png" />
 
-Es war hierbei möglich bei 9 von 10 Forks den Grund für die Entstehung heraus zu finden. Der häufigste Grund für die
-Entstehung eines Forks ist dabei ein technischer Beweggrund. Jedoch sind die Gründe weites gehend über alle
-Kategorien verteilt.
+Es war hierbei möglich bei 9 von 10 Forks den Grund für die Entstehung des Forks heraus zu finden. Der häufigste Fall
+ist dabei ein technischer Beweggrund. Jedoch sind die Gründe weites gehend über alle Kategorien verteilt.
 
 
 Was ist das Resultat von Forks?
@@ -123,15 +118,16 @@ Die Ergebnisse wurden in folgendem Diagramm dargestellt:
 <img src="img/oss-forks-results-pie.png" />
 
 Anhand der Ergebnisse wird klar, dass die ursprüngliche Hypothese von Wheeler nicht zu trifft. Stattdessen ist der
-am häufigsten auftretende Fall, der des erfolgreichen Branchings. Das sterben des Forks ist jedoch annähernd
-so wahrscheinlich wie das sterben der ursprünglichen Projekts, denn alle Fälle, wo das ursprüngliche Projekt bereits
-gestorben ist bevor der Fork entstanden ist sind ebenfalls in dieser Kategorie aufgeführt.
+am häufigsten auftretende Fall, der des erfolgreichen Branchings. An zweiter Stelle steht in dem Diagramm der Fall,
+dass das ursprüngliche Projekt stirbt. Es werden jedoch auch Projekte in dieser Kategorie aufgeführt, die bereits
+gestorben sind bevor der Fork entstanden ist. Deshalb kann es als ungefähr gleich wahrscheinlich betrachtet werden,
+dass nachdem ein Fork entstanden ist, das ursprüngliche Projekt oder der Fork stirbt.
 
 
 Bekannte Forks
 ==============
 Im folgenden sollen zwei FLOSS-Projekte vorgestellt werden, die Forks sind. Dabei wird beschrieben was die Gründe
-für die Entstehung und der Verlauf des Forks beschrieben in Betracht der vorher gewonnenen Ergebnisse.
+für die Entstehung sind und wie der Fork verlaufen ist.
 
 MariaDB
 -------
@@ -167,3 +163,14 @@ kann die Community ein neues Projekt von der bestehenden Codebasis starten, wenn
 Projekt verfolgt als der einzelne Maintainer oder die Firma hinter dem FLOSS-Projekt. Im Allgemeinen treten
 Forks jedoch sehr selten auf. Dies liegt vor allem daran, dass in der freien Software Community Forks eher kontrovers
 sind und weites gehend vermieden werden.
+
+
+Quellen
+=======
+- [A Comprehensive Study of Software Forks: Dates, Reasons and Outcomes](https://gsyc.urjc.es/~grex/oss2012forking)
+- https://dwheeler.com/oss_fs_why.html#forking
+- https://lwn.net/Articles/329626/
+- https://de.wikipedia.org/wiki/MariaDB
+- https://mariadb.org/
+- https://devuan.org/
+- https://en.wikipedia.org/wiki/Devuan
