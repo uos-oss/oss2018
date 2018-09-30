@@ -7,9 +7,9 @@
 * [Vorwort](#vorwort)
 * [Definition Lizenz](#def-lizenz)
 * [Open Source](#open-source)
-	* [OSI-Definition](#osi-Definition)
-	* [Richard M. Stallman und FSF](#richard-m.-s-tallman-und-fsf)
-	* [Abgrenzung](#abgrenzung)
+	* [Definition der OSI](#osi-Definition)
+	* [Definition von Richard M. Stallman und die FSF](#richard-m.-s-tallman-und-fsf)
+	* [Häufige Beschreibungen im Bereich Open Source](#abgrenzung)
 * [FLOSS Lizenztypen](#lizenztypen)
 	* [Permissive](#permissive)
 	* [Copyleft](#copyleft)
@@ -21,7 +21,7 @@
 	* [GNU GPLv3](#gnu-gplv3)
 * [choosealicence.com](#choosealicence)
 * [Kompatibilität von Lizenzen](#kompatibilitaet)
-* [SPDX zur Lizenzidentifizierung](#vorstellung-von-spdx)
+* [SPDX zur Kenntlichmachung von Lizenzen](#vorstellung-von-spdx)
 
 <a name="#vorwort"/>
 
@@ -140,7 +140,7 @@ FlOSS-Lizenzen lassen sich generell auf einem Spektrum von sehr Permissive (dt. 
 
 <a name="permissive"/>
 
-### Permissive Lizenzen
+### Permissive
 
 Permissive Lizenzen beinhalten kaum oder keine Restriktionen für den Lizenznehmer, also denjenigen, welcher die von jemand anderem geschriebene, frei zugängliche Software, benutzen, modifizieren oder neu verbreiten möchte. Meist ist unter Permissive Lizenzen sogar die Benutzung innerhalb propriätärer Software möglich.
 
@@ -167,6 +167,7 @@ Copyleft als Gegenstück zum Copyright verpflichtet dazu, jegliche Änderungen d
 
 ### Glossar zu Lizenzen
 
+<div>
 <table>
 <tr>
     <td> <b> Commercial use</b> </td>
@@ -182,7 +183,7 @@ Copyleft als Gegenstück zum Copyright verpflichtet dazu, jegliche Änderungen d
 </tr>
 <tr>
 	<td> <b> Patent use</b> </td>
-	<td>Die Software kann ohne rechtliche Konsequenzen genutzt werden, selbst wenn sie Patente des Erstellers enthält.AA: </td>
+	<td>Die Software kann ohne rechtliche Konsequenzen genutzt werden, selbst wenn sie Patente des Erstellers enthält. </td>
 </tr>
 <tr>
 	<td> <b> Private use</b> </td>
@@ -221,8 +222,10 @@ Copyleft als Gegenstück zum Copyright verpflichtet dazu, jegliche Änderungen d
 	<td>Die Lizenz beschreibt eindeutig, dass keine Trademarkrechte der Software oder des entwickelnden Unternehmens übergeben werden.</td>
 </tr>
 </table>
+</div>
 
 <a name="beispiele"/>
+<div class="test" markdown="1">
 
 ## Lizenzbeispiele
 
@@ -230,6 +233,7 @@ Im Folgenden werden einige Lizenzen vorgestellt. Die getroffene Auswahl soll beg
 
 Einen Überblick über alle gängigen Lizenzen ist auf der [webseite](https://spdx.org/licenses/) des SPDX-Projektes zu finden.
 
+</div>
 <a name="wtfpl"/>
 
 ### WTFPL
@@ -240,19 +244,21 @@ Die OSI erkennt die WTFPL [nicht an](https://opensource.org/minutes20090304). Da
 
 #### Der vollständige Lizenztext der WTFPL
 
-	DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-	        Version 2, December 2004
+```
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+        Version 2, December 2004
 
-	Copyright (C) 2004 Sam Hocevar
-	14 rue de Plaisance, 75014 Paris, France
-	Everyone is permitted to copy and distribute verbatim or modified
-	copies of this license document, and changing it is allowed as long
-	as the name is changed.
+Copyright (C) 2004 Sam Hocevar
+14 rue de Plaisance, 75014 Paris, France
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
 
-	DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-	TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-	0. You just DO WHAT THE FUCK YOU WANT TO.
+0. You just DO WHAT THE FUCK YOU WANT TO.
+```
 
 #### Eigenschaften
 

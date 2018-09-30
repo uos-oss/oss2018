@@ -13,7 +13,7 @@ Referatsthemen
 - [1. Juni: FLOSS in kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*](themen/kommerziell/index.md)
 - [1. Juni: Motivation von Open-Source-Entwicklern *(pluettmann)*](themen/motivation/index.md)
 - [8. Juni: Entscheidungs- und Machtstrukturen *(ottker)*](themen/machtstrukturen/index.md)
-- [8. Juni: Fallstricke bei der FLOSS-Nutzung- und Entwicklung *(tillz)*](#)
+- [8. Juni: Fallstricke bei der FLOSS-Nutzung- und Entwicklung *(tillz)*](themen/difficulties/index.md)
 - [15. Juni: Versionsnummern und Releasepolitik *(KarolinePlum)*](#)
 - [15. Juni: Projektzusammenhänge *(kkuhr)*](themen/zusammenhaenge/index.md)
 - [15. Juni: FLOSS-Events *(ekeser)*](#)
