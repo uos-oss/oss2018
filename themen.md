@@ -1,24 +1,23 @@
+Referatsthemen
+==============
 
+*[Zur Startseite](index.md)*
 
-*[Zur Startseite](index.html)*
+- [27. April: Ein Überblick über FLOSS-Lizenzen *(astiefvater)*](themen/lizenzen/index.md)
+- [27. April: Wie kann ich zu Projekten beitragen *(dkopatz)*](themen/beitragen/index.md)
+- [4. Mai: Der Umgang mit Bugs *(ashek)*](#)
+- [4. Mai: Code- und Versionsverwaltung *(mklpiening)*](themen/vcs/index.md)
+- *11. Mai: Keine Veranstaltung (Christi Himmelfahrt)*
+- *18. Mai: Keine Veranstaltung (Pfingsten)*
+- [25. Mai: FLOSS-Ökosysteme *(rmirau)*](#)
+- [1. Juni: FLOSS in kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*](themen/kommerziell/index.md)
+- [1. Juni: Motivation von Open-Source-Entwicklern *(pluettmann)*](themen/motivation/index.md)
+- [8. Juni: Entscheidungs- und Machtstrukturen *(ottker)*](themen/machtstrukturen/index.md)
+- [8. Juni: Fallstricke bei der FLOSS-Nutzung- und Entwicklung *(tillz)*](themen/difficulties/index.md)
+- [15. Juni: Versionsnummern und Releasepolitik *(KarolinePlum)*](#)
+- [15. Juni: Projektzusammenhänge *(kkuhr)*](themen/zusammenhaenge/index.md)
+- [15. Juni: FLOSS-Events *(ekeser)*](#)
 
-Themen
-------
-
-- [4. April 2018: Informationen zum Seminar](#aufgaben) *(lkiesow)*
-- Ein Überblick über FLOSS-Lizenzen *(astiefvater)*
-- FLOSS in kommerziellen Umfeldern: Wie setzen Firmen FLOSS-Projekte ein *(fistutzente)*
-- Der Umgang mit Bugs *(ashek)*
-- Versionsnummern und Releasepolitik *(KarolinePlum)*
-- Motivation von Open-Source-Entwicklern *(pluettmann)*
-- Wie kann ich zu Projekten beitragen *(dkopatz)*
-- Code- und Versionsverwaltung *(mklpiening)*
-- Usability, Dokumentation und Marketing *(tillz)*
-- Entscheidungs- und Machtstrukturen *(ottker)*
-- Kommunikation
-- FLOSS-Ökosysteme *(rmirau)*
-- FLOSS-Events
-- Projektzusammenhänge *(kkuhr)*
 
 Referate (max. 30min)
 ---------------------

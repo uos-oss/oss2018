@@ -1,7 +1,7 @@
----
----
+Projektvorstellungen
+====================
 
-*[Zur Startseite](index.html)*
+*[Zur Startseite](index.md)*
 
 - [4. April 2018: Opencast](#opencast) *(lkiesow)*
 - [13. April 2018: The Rust Programming Language](#Rust) *(astiefvater)*
@@ -12,7 +12,7 @@
 - [13. April 2018: Hyperledger](#hyperledger) *(pluettmann)*
 - [20. April 2018: OpenSSL](#openssl) *(dkopatz)*
 - [20. April 2018: Let's Encrypt/certbot/ACME](#certbot) *(tillz)*
-- [20. April 2018: FFmpeg](http://de.wikipedia.org/wiki/ffmpeg) *(ottker)*
+- [20. April 2018: FFmpeg](#ffmpeg) *(ottker)*
 - [20. April 2018: JQuery](#jquery) *(kkuhr)*
 - [20. April 2018: Kodi](#Kodi) *(ekeser)*
 - [20. April 2018: Ubuntu Touch](#ubuntutouch) *(rmirau)*
@@ -72,7 +72,6 @@ Gitea möglichst plattformunabhängig und äußerst ressourcensparend zu gestalt
 Entstanden ist Gitea als Fork von Gogs 2016.11 und wird seitdem von der
 Community des Projekts weiterentwickelt.
 
-
 - Lizenz: [MIT](https://github.com/go-gitea/gitea/blob/master/LICENSE)
 - Codeverwaltung & Issue-Tracker: [GitHub](https://github.com/go-gitea/gitea)
 
@@ -89,6 +88,21 @@ Open-Source) erstellt und nativ eingebunden werden.
 - Lizenz iOS: [Apache License 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
 - Codeverwaltung & Issue-Tracker Android: [Github](https://github.com/airbnb/lottie-android)
 - Codeverwaltung & Issue-Tracker iOS: [Github](https://github.com/airbnb/lottie-ios)
+
+
+TensorFlow
+----------
+
+TensorFlow ist ein Framework für Machine Learning, dessen Kern eine Bibliothek für hochperformante Ausführung komplexer numerischer Berechnungen, die durch "Data Flow Graphs" modelliert werden, darstellt. Darauf aufbauend bietet es
+Möglichkeiten zur Anwendung von Lernalgorithmen für das Trainieren von Modellen.
+
+TensorFlow verfolgt das Ziel, möglichst platformunabhängig, flexibel, skalierbar und allumfassend zu sein.
+
+2015 überraschend von Google als Open-Source veröffentlicht, ist TensorFlow das zur Zeit meistgenutzte Framework für
+Machine und insbesondere Deep Learning.
+
+- Lizenz: [Apache License 2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
+- Codeverwaltung und Issue-Tracker: [Github](https://github.com/tensorflow/tensorflow)
 
 
 Hyperledger
@@ -135,8 +149,33 @@ jeden Open-Source Webserver.
 - Issue-Tracker: [Github](https://github.com/openssl/openssl/issues)
 
 
+FFmpeg
+------
+
+**FFmpeg** ist ein Multimediaframework. Es beinhaltet die Endanwendertools ffmpeg, ffplay und ffprobe und diverse Bibliotheken zum Entwickeln anderer Software. Unter anderem libavcodec, die mehr als 80 Audio- & Videocodecs implementiert.
+
+**ffmpeg** ist ein Kommandozeilentool und ermöglicht das einfache Konvertieren von Video- & Audiomaterial. Dabei können diverse Codecs (aus libavcodec) decodiert und encodiert werden. Außerdem lassen sich die verschiedenen Streams in viele Containerformate (.mp4, .avi etc.) verpacken. Dabei wird Wert auf eine einfache Handhabung und gleichzeitig hohe Kon­fi­gu­rier­barkeit der Ergebnisdatei gelegt.
+
+- Lizenz: [LGPL 2.1 / GPL 2.0](https://ffmpeg.org/legal.html) (je nach Konfiguration)
+- Codeverwaltung: [git (selbst gehostet)](https://git.ffmpeg.org/ffmpeg.git) ([Github Mirror](https://github.com/FFmpeg/FFmpeg))
+- Issue-Tracker: [Trac (selbst gehostet)](https://trac.ffmpeg.org)
+
+
 JQuery
 -------
+JQuery ist eine freie JavaScript Bibliothek und gehört zu den meistverwendeten JavaScript Bibliotheken überhaupt.
+JQuery wird in Webanwendungen für die Ausführung im Browser genutzt, um die Interaktion mit der
+Webanwendung dynamischer zu machen. Hierbei unterstützt es mit vielen Funktionen, wie die Interaktion mit dem DOM,
+Animationen oder Ajax Aufrufen.
+
+Das Projekt wurde 2006 gestartet und verbreitete sich recht schnell, was vor allem an seiner Vielfältigkeit und
+simplen Erweiterung lag.
+
+Nachdem das Projekt immer Erfolgreicher wurde und weitere Projekte entstanden, die auf JQuery aufbauen
+(JQueryUI, JQueryMobile, QUnit, Sizzle) entstand die JQueryFoundation. Diese Organisation verwaltete ab diesem
+Zeitpunkt JQuery und die daraus entstandenen Projekte. Später wurde die JQueryFoundation zu der JSFoundation,
+welche ein Projekt der LinuxFoundation ist. Die JSFoundation ist neben den JQuery Projekten auch für andere
+große JavaScript Projekte verantwortlich.
 
 - Lizenz: [MIT](https://github.com/jquery/jquery/blob/master/LICENSE.txt)
 - Codeverwaltung und Issue-Tracker: [Github](https://github.com/jquery/jquery)
@@ -144,5 +183,3 @@ JQuery
 
 Ubuntu Touch
 ------------
-
-
