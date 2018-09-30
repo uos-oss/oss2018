@@ -1,6 +1,7 @@
 Floss-Events
 
-1. Einleitung
+a1. Einleitung
+=================
 In dieser Ausarbeitung geht es um einen Einblick in die Welt der FLOSS-Events (FLOSS ist die Abkürzung für Free/Libre Open Source Software). 
 Der Begriff Open Source wurde von Raymond, Bruce Perens und Tim O’Reilly ins Leben gerufen, weil sie der Meinung waren, dass die Freie-Software-Gemeinschaft ein besseres Marketing benötigen würde.
 Open Software ermöglicht den Benutzern einen Blick in den Quellcode. Dh. Gute Programmierer sind in der Lage das Programm zu modifizieren oder nach seinen Wünschen anzupassen. Dies ermöglicht beispielsweise auch Studenten die Möglichkeit sich den Quellcode von Programmen anzuschauen und nachzuvollziehen, wie Programme funktionieren. Durch diese „offene“ Art lädt es jeden Entwickler dazu ein, mit an dem Programm zu arbeiten und Studenten können ihre ersten Programmiererfahrungen machen. 
