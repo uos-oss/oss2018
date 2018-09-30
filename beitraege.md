@@ -25,7 +25,8 @@ Nachdem die Erweiterung durchgeführt wurde, wurde ein Pull-Request gestellt, we
 - [22. Juni: Ubuntu Touch *(rmirau)*](#)
 - [22. Juni: coala *(dkopatz)*](#)
 - [29. Juni: Angular 6 Tutorial *fistutzenste*](#)
-- [29. Juni: *KarolinePlum*](#)
+- [29. Juni: Rust *(KarolinePlum)*](https://github.com/rust-lang/)
+Bezüglich des Projektes siehe [Projektvorstellung](projekte.md). Ich habe durch eine kleine Änderung in der Dokumentation von Rust ([Issue](https://github.com/rust-lang/rust/issues/52263)) und bei der Übersetzung von insgesamt ca. einem Kapitel des [Rust-Buches](https://github.com/rust-lang/book/issues) ([Issue](https://github.com/rust-lang/book/issues/1386)) beigetragen.  
 - [29. Juni: *ashek*](#)
 - [29. Juni: Zim *(astiefvater)*](#)
 - [29. Juni: rambox *(pluettmann)*](#)
