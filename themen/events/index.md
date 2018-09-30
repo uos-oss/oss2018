@@ -37,24 +37,24 @@ Zu guter Letzt gibt es noch die Events, die einem Wettbewerb ähneln. Dabei werd
 =============
 
 *4.1 FrOSCon*
-=============
+
 Die FrOSCon ist eine Konferenz für Open Source Entwicklungen, die jedes Jahr im Spätsommer stattfindet. Dieses Jahr, 2018, fand die FrOSCon schon zum 13. Mal statt. Es werden interessante Vorträge, Workshops und Ausstellungen für die Teilnehmer vorbereitet. Veranstalter des alljährlichen Open Software Events ist die Hochschule Bonn-Rhein-Sieg mit Hilfe des FrOSCon e.V.. Schön hierbei ist, dass das 2-tägige Event für die Teilnehmer kostenlos ist und auch für Verpflegung gesorgt ist. 
 Ein besonderes Highlight dieser Veranstaltung ist das Social Event am Samstagabend, bei dem sich Besucher, Vortragende und Mitwirkende zusammenkomme und sich austauschen können.
 
 
 *4.2 Linux-Bier-Wanderung*
-==========================
+
 Die Linux-Bier-Wanderung ist ein „nettes Beisammensein“ von Open Source Software Programmierern. Die Veranstaltung fand das erste Mal in Deutschland statt und findet jährlich einmal in einer anderen Stadt in Europa statt. Die Namensgebung stammt von den besonderen Bierwanderwegen aus Bayern, wo das erste Beisammensein zustande kam.
 Die Linux-Bier-Wanderung ist keine Konferenz. Es treffen sich Linux und Open Source Begeisterte und tauschen sich rund um ihre Projekte aus und stellen diese vor. Das dauert in der Regel eine Woche und findet auch in einer ganz angenehmen Atmosphäre statt.
 
 
 *4.3 Hacktoberfest*
-===================
+
 Das Hacktoberfest ist ein Event, das Programmierer dazu anregen soll Open Source Projekte nach dem Motto „Man möchte etwas zurückgeben“ zu unterstützen. Bei diesem Event darf jeder, der programmieren kann, mitmachen. Der Name Hacktoberfest lehnt sich an das deutsche Volksfest dem Oktoberfest. Nicht wie beim Oktoberfest, das in der Regel Ende September beginnt und Anfang Oktober endet, findet das Hacktoberfest den ganzen Oktober statt. Mit 5 Pull-Requests bei Git-Hub kann man sich ein beliebtes Hacktoberfest T-Shirt ergattern.  
 Organisatoren dieses Events sind GitHub und DigitalOcean.
 
 *4.4 Google Summer Of Code*
-===========================
+
 Bei dem Google Summ Of Code, kurz GSOC, handelt es sich um eine Art Stipendium für Studenten. Auch hier ist man bestrebt Open Source Projekte zu fördern. Auf der anderen Seite macht Googe Werbung in eigener Sache.
 Bei diesem Event können sich Organisationen mit ihren Projekten bei GSOC bewerben, damit diese später dann von den möglichen Programmierern unterstützt werden. Welche Organisationen unterstützt werden, gibt Google im April bekannt. 
 Im Anschluss haben die Organisationen einen Monat Zeit mit Projektideen Bewerber zu locken. In Foren und Mailinglists wird sich über die Ideen ausgetauscht und erste Bekanntschaften werden gemacht. 
