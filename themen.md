@@ -16,7 +16,7 @@ Referatsthemen
 - [8. Juni: Fallstricke bei der FLOSS-Nutzung- und Entwicklung *(tillz)*](themen/difficulties/index.md)
 - [15. Juni: Versionsnummern und Releasepolitik *(KarolinePlum)*](#)
 - [15. Juni: Projektzusammenhänge *(kkuhr)*](themen/zusammenhaenge/index.md)
-- [15. Juni: FLOSS-Events *(ekeser)*](#)
+- [15. Juni: FLOSS-Events *(ekeser)*](themen/events/index.md)
 
 
 Referate (max. 30min)
