@@ -1,7 +1,8 @@
 Floss-Events
 
 
-1. Einleitung
+**1. Einleitung**
+=================
 
 In dieser Ausarbeitung geht es um einen Einblick in die Welt der FLOSS-Events (FLOSS ist die Abkürzung für Free/Libre Open Source Software). 
 Der Begriff Open Source wurde von Raymond, Bruce Perens und Tim O’Reilly ins Leben gerufen, weil sie der Meinung waren, dass die Freie-Software-Gemeinschaft ein besseres Marketing benötigen würde.
@@ -21,6 +22,7 @@ Beispiel 4: Gute Programmierer wissen, was sie schreiben müssen. Brillante wiss
 Man merkt diesen Open Source Software eine bestimmte soziale Art durchklingen, die auch in allen Events spürbar ist.
 
 3. Was sind Events?
+
 In der Welt der FLOSS sind die Events ein Highlight. Aber es gibt unterschiedliche Arten von Events und unter dem Begriff Event kann man daher auch was anderes verstehen, sodass eine Erläuterung sinn voll ist.
 
 Einerseits gibt es ruhige Zusammenkünfte von Programmieren mit dem Ziel sich auszutauschen, über Neuigkeiten zu sprechen und Vorträgen zu zuhören, eine Art Beisammensein unter Gleichgesinnten. 
