@@ -89,3 +89,15 @@ Schlusswort
  So wurde auch das Zusammenspiel veler Non-Profit-Foundations mit einem nahestenden For-Profit- Unternehmen bewusst nicht mit eingeschlossen.
  Ziel dieser Ausarbeitung war es, einen Überblick über die verschiedenen Ursprünge und Tätigkeitsfelder der Non-Profit-Organisationen zu verschaffen.
  
+Quellen
+=
+- https://www.fsf.org/
+- https://opensource.org/
+- https://www.debian.org/
+- https://www.spi-inc.org/
+- https://www.apache.org/
+- https://www.linuxfoundation.org/
+- https://softwarefreedom.org/
+- https://sfconservancy.org/
+- https://www.apereo.org/
+- https://okfn.org/
