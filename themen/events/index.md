@@ -1,4 +1,4 @@
-# Floss-Events
+# FLOSS-Events
 
 
 **1. Einleitung**
