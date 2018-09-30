@@ -107,21 +107,26 @@ Kategorien verteilt.
 
 Was ist das Resultat von Forks?
 -------------------------------
-Zuletzt wurde nach den möglichen Resultaten von Forks gefragt. Auch hier wurden mehrere mögliche Resultate definiert
-und im Anschluss alle Forks nach diesen Resultaten geprüft, um eine allgemeine Aussage treffen zu können. Die folgenden
-Resultate wurden von den Wissenschaftlern definiert:
+Die letzte Frage betrifft das Resultat von Forks. In dem Paper wird eine Hypothese von David A. Wheeler aufgegriffen.
+Wheeler hat in einem Paper von 2006 vier mögliche Resultate für jeden Fork definiert. Dabei hat er ebenfalls die
+Hypothese aufgestellt, das sterben des Forks sei das am häufigsten auftretende Resultat.
+Um diese Hypothese zu prüfen haben die Wissenschaftler alle Forks nach den folgenden Kategorien von Wheeler
+eingeordnet, wobei die letzte Kategorie hinzugefügt wurde:
 - Der Fork stirbt.
-- Das originale Projekt stirbt.
+- Das ursprüngliche Projekt stirbt.
 - Die beiden Projekte werden wieder zusammen geführt.
 - Erfolgreiches fortbestehen beider Projekte (Branching).
 - Beide Projekte sterben.
 
-Die Hypothese wurde aufgestellt von Wheeler, dass das am häufigsten auftretende Resultat das sterben der Forks ist.
-Diese Hypothese wurde bei den Ergebnissen der Analyse wiederlegt. Hier wird klar, dass es annähernd die selbe
-Wahrscheinlichkeit ist ob der Fork oder das originale Projekt stirbt. Deutlich wahrscheinlicher war jedoch der Fall,
-dass ein erfolgreiches Branching und somit fortbestehen beider FLOSS-Projekte entsteht.
+Die Ergebnisse wurden in folgendem Diagramm dargestellt:
 
 <img src="img/oss-forks-results-pie.png" />
+
+Anhand der Ergebnisse wird klar, dass die ursprüngliche Hypothese von Wheeler nicht zu trifft. Stattdessen ist der
+am häufigsten auftretende Fall, der des erfolgreichen Branchings. Das sterben des Forks ist jedoch annähernd
+so wahrscheinlich wie das sterben der ursprünglichen Projekts, denn alle Fälle, wo das ursprüngliche Projekt bereits
+gestorben ist bevor der Fork entstanden ist sind ebenfalls in dieser Kategorie aufgeführt.
+
 
 Bekannte Forks
 ==============
@@ -131,30 +136,34 @@ für die Entstehung und der Verlauf des Forks beschrieben in Betracht der vorher
 MariaDB
 -------
 MariaDB ist ein Relationales Datenbank Managment System (RDBMS) und ist als Fork von dem bekannten Open-Source RDBMS
-MySQL entstanden. Die Abspaltung fand 2009 statt aus dem Grund, dass Sun Microsystems von Oracle übernommen wurde.
-Durch diese Übernahme war nun auch Oracle verantwortlich für MySQL. Viele Entwickler, unter anderem Michael Widenius,
-der Gründer von MySQL, sahen Oracle kritisch im Umgang mit Open-Source Projekten. Deshalb wurde MySQL von Widenius
-geforked und MariaDB ist entstanden. MariaDB garantiert dabei eine volle Kompatibilität zu MySQL und implementiert
-neue Features von MySQL ebenfalls. Die MariaDB Foundation ist der offizielle Maintainer des MariaDB Projekts.
-Wenn wir diesen Fork unter den Kategorien betrachten, die wir zuvor erörtert haben bezüglich dem Resultat von Forks,
-fällt MariaDB in die am häufigsten auftretende Kategorie, denn beide Projekte bestehen bis heute und sind viel genutzte
+MySQL entstanden. Die Abspaltung fand 2009 statt. Der Grund für diesen Fork ist die Übernahme von Sun Microsystems
+durch Oracle. Nach dieser Übernahme war nun auch Oracle verantwortlich für MySQL. Viele Entwickler, unter anderem
+Michael Widenius der Gründer von MySQL, sahen Oracle kritisch im Umgang mit Open-Source Projekten. Deshalb wurde MySQL
+von Widenius geforked und MariaDB ist entstanden. Die MariaDB Foundation entstand kurz nach der Entstehung des Forks
+und ist der offizielle Maintainer des Projekts.
+Der Grund für diesen Fork fällt deshalb in die Kategorie "More community-driven development".
+Das Resultat ist ein erfolgreiches Branching, denn beide Projekte bestehen bis heute und sind viel genutzte
 FLOSS-Projekte.
 
 Devuan
 ------
-Devuan ist eine Linux Distribution, die aus einer der bekanntesten Linux Distributionen entstanden ist nämlich Debian.
-Der Grund für diesen Fork fällt in die Kategorie "Technical", die zuvor beschrieben wurde. Hierbei war ausschlaggebend,
-dass Debian sich dazu entschieden hat, das init-System SysVinit durch das modernere Programm Systemd auszutauschen.
-Viele Entwickler haben diese Entscheidung nicht befürwortet. Dies liegt vor allem daran, dass Systemd in der Linux
-Community sehr kontrovers ist, weil es mit dem Unix Grundsatz der bricht, dass jedes Programm möglichst simpel sein
-soll. Daraus entstand ein Streit unter den Entwicklern, der darin Resultierte, dass 2014 Devuan gegründet wurde
-als Fork von Debian mit SysVinit als init-System.
+Devuan ist eine Linux Distribution, die ein Fork der bekannten Distribution Debian ist. In der 8. Version von Debian
+wurde entschieden, das init-System SysVinit durch das modernere Programm Systemd auszutauschen.
+Viele Entwickler haben diese Entscheidung nicht befürwortet. Dies liegt vor allem daran, dass Systemd in der freien
+Software Community sehr kontrovers ist. Denn es bricht mit einem UNIX Grundsatz, nachdem Programme nicht zu komplex
+werden sollen durch die Konzentration auf eine bestimmte Funktion. Daraus entstand ein Streit unter den Entwicklern,
+der darin Resultierte, dass 2014 Devuan als Fork von Debian gegründet wurde mit SysVinit als init-System.
+Der Grund für diesen Fork ist in die Kategorie "Technical" ein zu ordnen.
+Das Resultat ist ebenfalls ein erfolgreiches Branching, wobei viele Leute skeptisch sind ob die Community des
+Devuan Projekts groß genug ist für die Pflege einer Linux Distribution.
 
 Fazit
 =====
-Es gibt viele Arten von Zusammenhängen von FLOSS-Projekten. Dabei hebt sich der Fork von den übrigen Arten ab,
-denn dadurch wird die Freiheit in diesen Projekte sehr deutlich Characterisiert, weshalb das forken als eines der
-grundlegendsten Rechte in freier Software gilt. Das forken von FLOSS-Projekten macht es zum einen möglich für
-Entwickler, die ein Projekt weiter führen wollen obwohl dieses von dem ursprünglichen Maintainer nicht mehr
-weiter geführt wird. Zum anderen kann die Community ein eigenes Projekt mit der bestehen Code Basis verfolgen,
-wenn Sie sich durch eine Firma oder den Maintainer des Ursprungsprojekts nicht unterstützt fühlen.
+Es gibt viele Arten von Zusammenhängen einzelner FLOSS-Projekten. Dabei hebt sich der Fork von den übrigen Arten ab.
+Der Prozess des forkens Charakterisiert die fundamentale Freiheit von FLOSS-Projekten. Dies wird ebenfalls dadurch
+deutlich, dass forken ein grundlegendes Recht in freier Software ist. So kann sich ein neues Projekt mit eigener
+Community aus einem Projekt heraus bilden, das vorher bereits nicht mehr aktiv Weiterentwickelt wurde. Außerdem
+kann die Community ein neues Projekt von der bestehenden Codebasis starten, wenn Sie andere Interessen für das
+Projekt verfolgt als der einzelne Maintainer oder die Firma hinter dem FLOSS-Projekt. Im Allgemeinen treten
+Forks jedoch sehr selten auf. Dies liegt vor allem daran, dass in der freien Software Community Forks eher kontrovers
+sind und weites gehend vermieden werden.
