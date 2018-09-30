@@ -6,7 +6,7 @@ Inhalt
 ------
 1. [Einleitung](#einleitung)
 2. [Releasezeitplan](#releasezeitplan)
-3. [Vorbereitung des Codes für das Release](#vorbereitung-des-Codes-für-das-release)
+3. [Vorbereitung des Codes für das Release](#vorbereitung-des-codes-für-das-release)
 4. [Versionsnamen](#versionsnamen)
 
 Einleitung
