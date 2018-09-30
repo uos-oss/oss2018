@@ -13,7 +13,7 @@
 1.1 <a href="#geschichte">Geschichte</a><br>
 1.2 <a href="#definition">Definition</a><br>
 1.3 <a href="#bugs-vs.-features">Bugs vs. Features</a></li>
-<li><a href="#issue-tracking-system-(its)">Issue-Tracking-System (ITS)</a><br>
+<li><a href="#issue-tracking-system">Issue-Tracking-System</a><br>
 2.1 <a href="#github-issues">Github Issues</a><br>
 2.2 <a href="#jira">Jira</a></li>
 <li><a href="#security-bugs">Security Bugs</a></li>
@@ -30,8 +30,8 @@
 Bei der Erkennung sollte es offensichtlich sein, wenn es sich um Bugs handelt, jedoch wird oft gesagt “It’s not a bug, it’s a feature”, da es oft nicht offensichtlich ist. [3]<br>
 Ebenso können Bugs im späteren Verlauf auch als Features gesehen werden, wenn zum Beispiel ein Charakter im Computerspiel sich verrückt verhalt und es später zu einem geliebten Feature wird. Andersrum ist das auch möglich, da es verbreitet auftaucht, dass Benutzer unbeliebte Features als Bugs melden. [4]<br>
 Es ist zu sagen das Anforderungen oft nicht ausreichend spezifiziert sind. Code kann nur als “Defekt” gekennzeichnet werden, wenn es sich von den Anforderungen unterscheidet. “Defekte” werden Features genannt, da die Anforderungen oft nie aufgeschrieben wurden. Bugs sollten von der Abweichung von Voraussetzungen abhängen und nicht von subjektiven Vorstellungen. [3]</p>
-<h2 id="issue-tracking-system-its"><strong>Issue-Tracking-System (ITS)</strong></h2>
-<p>Es gibt viele Synonyme für Issue-Tracking-System wie z.B. Helpdesk-System, Serviceticket-System, Trouble-Ticket-System, Request-Tracking-System (RTS). [5] Darunter wird Software verstanden, die die Erstellung und Organisation von Cases/Tickets handhabt. Einen ausführlichen Vergleich der Vor- und Nachteile von den Systemen und deren Features wird verzichtet. Dies den Rahmen dieser Ausarbeitung sprengen würde. Stattdessen wird Fokus auf Github Issues gelegt, weil die meisten FLOSS-Projekte dieses ITS nutzen.</p>
+<h2 id="issue-tracking-system"><strong>Issue-Tracking-System</strong></h2>
+<p>Es gibt viele Synonyme für Issue-Tracking-System (kurz: ITS) wie z.B. Helpdesk-System, Serviceticket-System, Trouble-Ticket-System, Request-Tracking-System (RTS). [5] Darunter wird Software verstanden, die die Erstellung und Organisation von Cases/Tickets handhabt. Einen ausführlichen Vergleich der Vor- und Nachteile von den Systemen und deren Features wird verzichtet. Dies den Rahmen dieser Ausarbeitung sprengen würde. Stattdessen wird Fokus auf Github Issues gelegt, weil die meisten FLOSS-Projekte dieses ITS nutzen.</p>
 <h2 id="github-issues"><strong>Github Issues</strong></h2>
 <p>Mittels Issues wird die Möglichkeit geschaffen um Überblick über die Aufgaben, Verbesserungen oder Bugs zu behalten. Sie sind sowas wie E-Mails, nur das jeder Zugriff hat und mitdiskutieren kann. Das Spezielle bei diesem ITS ist, dass der Fokus auf die Zusammenarbeit gelegt wurde, durch Referenzierung und Textformatierung. Wenn viele Issues bearbeitet wurden, sind die Filtermöglichkeiten Milestone, Labels und Assignees hilfreich.<br>
 Unter Milestone wird das Erreichen von Etappen besonderer Ziele gekennzeichnet. Labels sind hilfreich um die jeweiligen Issues einzuordnen. Bei Assignees wird jedem Ticket eine Person zugeordnet, die für das jeweilige Issue verantwortlich ist.<br>
