@@ -3,7 +3,7 @@ Beiträge zu FLOSS-Projekten
 
 *[Zur Startseite](./)*
 
-- [22. Juni: Yarn *(kkuhr)*](#)
+- [22. Juni: Yarn *(kkuhr)*](https://github.com/yarnpkg/yarn)
 - [22. Juni: Mark Text *(mklpiening)*](https://github.com/marktext/marktext)
 - [22. Juni: Shairport-Sync *(tillz)*](https://github.com/mikebrady/shairport-sync)
 Das Projekt ist eine freie Implementierung des Airplay-Protokolls. Airplay dient Apple-Geräten dazu,
