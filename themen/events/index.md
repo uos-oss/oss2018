@@ -63,8 +63,8 @@ Danach beginnt eine 3 monatige Arbeitsphase, bei der jeder Bewerber, der jetzt n
 
 
 
-*5. Fazit*
-==========
+**5. Fazit**
+============
 Vor dem Seminar konnte ich mir wenig unter Open Source Software vorstellen. Jetzt habe ich ein Bild von diesem FELD und sehe auch ein bestimmtes Potential, dass für die Lehre sowohl an Universitäten und in Schulen eingesetzt werden kann.
 
 Da mein zukünftiger Arbeitsbereich die Schule sein wird, stelle ich mir die Frage, wie man die Schülerinnen und Schüler im Bereich der Informatik motivieren kann. 
