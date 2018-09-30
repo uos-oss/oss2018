@@ -13,13 +13,16 @@ Einleitung
 ----------
 
 Wenn man an einem Softwareprojekt arbeitet, ist es oft das Ziel, zu einem gewissen Zeitpunkt den Projektcode in einen konsistenten und in sich geschlossenen, möglichst fehlerfreien Zustand zu bringen, um ihn dann an potentielle Nutzer ausliefern zu können. Damit verbunden sind die Begriffe Release und Version, die oft austauschbar verwendet werden können. Der Begriff Release legt dabei den Fokus eher auf den Prozess der Auslieferung an die Nutzer, während eine Version eher mit dem internen Zustand des Codes in Verbindung gebracht wird.
+
 Es gibt auch viele Projekte (besonders in der FLOSS-Welt), die keine expliziten Releases vornehmen, sondern versuchen, die Codebasis zu jedem Zeitpunkt möglichst konsistent und sinnvoll zu halten, sodass User jederzeit den aktuellen Zustand abgreifen und ihn auch sinnvoll benutzen können (*rolling / no release*). In dieser Ausarbeitung soll es allerdings um Projekte gehen, die einen richtigen Releasezyklus besitzen, wo also das Release eine besondere Version der Software ist, auf die explizit hingearbeitet wird.
+
 In dieser Ausarbeitung sollen drei Aspekte betrachtet werden, die für Releases wichtig sind. Zunächst einmal sollte für das Projekt entschieden werden, wann das nächste Release anstehen soll und eventuell auch ein Plan für darauffolgende Releases. Dann muss strukturiert werden, wie das Team zusammen vorgeht, um einen releasebereiten Code zu erarbeiten. Schließlich sollte dem Release auch ein Name zugeteilt werden, der es sinnvoll in der Versionshistorie identifiziert.
 
 Releasezeitplan
 ---------------
 
 Es existieren zwei grundlegende Ansätze bei der Erstellung eines Zeitplans für Releases: der featurebasierte und der zeitbasierte Ansatz. Beim traditionelleren featurebasierten Ansatz wird festgelegt, welche Features mit dem nächsten Release ausgeliefert werden sollen, und der Releasezeitpunkt wird dementsprechend angepasst. Beim moderneren zeitbasiertem Ansatz wird hingegen ein zeitlich festgelegter Releasezyklus gewählt (z.B. Release alle 6 Wochen), und alle Features, die zum Releasezeitpunkt fertig sind, werden in das Release mit aufgenommen, an dem Rest wird für spätere Releases weitergearbeitet.
+
 Im Folgenden werden einige Vor- und Nachteile betrachtet, die die jeweiligen Ansätze mit sich bringen und es wird insbesondere auf die speziellen Anforderungen bei FLOSS-Projekten eingegangen.
 
 #### Featurebasierter Ansatz
@@ -27,8 +30,11 @@ Featurebasierte Releases haben den Vorteil, dass sie - wenn sie funktionieren - 
 
 #### Zeitbasierter Ansatz
 Zeitbasierte Releases haben den Vorteil, dass durch einen von Release zu Release gleichen Zeitplan eine Routine entsteht. Durch diese Routine kann der Bedarf nach Intervention und Koordination von Außen verringert werden und Projektteilnehmer können durch die Routine ihre Aufgaben eingespielter lösen und adäquate Erwartungen entwickeln. Außerdem kann die Routine motivierend für die Teammitglieder wirken.
+
 Durch den festen Releasezyklus können außerdem Vorteile für die Repräsentation des Projektes gegenüber Nutzern entstehen. Die stetigen Releases können Nutzern signalisieren, dass sich das Projekt in einem gesunden Zustand befindet, gut organisiert ist und voraussichtlich in der Zukunft noch weiter Support erhalten wird.
+
 Darüber hinaus können Nutzer sich den zeitlichen Releaserhytmus merken und erwarten daher ein Release und schauen sich möglicherweise sogar von selbst aus das neue Release an, ohne eine Benachrichtigung irgendeiner Art über das Release erhalten haben zu müssen. Dieser Aspekt kann insbesondere bei verteilter Software relevant werden, wo sich Nutzer aktiv das neue Release installieren müssen, um davon zu profitieren. Selbst bei *Software as a Service* kann es aber von Vorteil sein, wenn sich die Nutzer auf den Releasezeitpunkt einstellen können, zum Beispiel um sich über das neue Release zu informieren und eventuell Auswirkungen auf das eigene Projekt einzuschätzen.
+
 Jedoch sind zeitbasierte Releases natürlich nur sinnvoll bei größeren Projekten, wo genügend daran gearbeitet wird, um stetig neue Releases zu erlauben.
 #### Zur Länge des Releasezyklus
 Sowohl zeitbasierte als auch featurebasierte Ansätze können kurze oder lange Releasezyklen haben, auch wenn Projekte mit zeitbasierten Releases öfter releasen, d.h. kürzere Releasezyklen haben.
@@ -49,9 +55,12 @@ Ein verbreites Motto in der FLOSS-Welt:
 
 #### Besondere Anforderungen von FLOSS
 Auf Grund von häufigen Anforderungen und Einschränkungen von FLOSS-Projekten kann argumentiert werden, dass zeitbasierte Releases mit kürzeren Releasezyklen tendenziell geeigneter für diese Projekte sind.
+
 Eine Besonderheit im Vergleich zu traditioneller Softwareentwicklung in einer Firma ist die häufige räumliche und zeitliche Trennung der Projektteilnehmer, wodurch Kommunikation und Koordination erschwert werden. Da beim zeitbasierten Ansatz der Ablauf mehr oder weniger von vorneherein geregelt ist, profitieren alle Teilnehmer davon dass durch die Eingespieltheit weniger Koordination und Kommunikation nötig wird.
 Außerdem ist die Arbeit an FLOSS-Projekten oft (nicht immer) eine freiwillige Arbeit, was bedeutet, dass die Motivation der Teilnehmer umso wichtiger wird, die durch die regelmäßige Veröffentlichung der eigenen Leistungen erreicht werden kann.
+
 Auch kann es manchmal sein, dass potentielle Nutzer FLOSS-Projekten weniger vertrauen als proprietären Projekten, vielleicht weil sie keine Sicherheit für weitere Arbeit am Projekt verspüren, von daher können stetige Releases als eine Art "Puls" des Projektes besonders wichtig sein, um diese Nutzer von der Professionalität und Gesundheit des Projektes zu überzeugen.
+
 Schließlich fällt ein großer Anreiz von featurebasierten Releases bei FLOSS-Projekten häufig weg. Denn sie sind oft nichtkommerziell und haben große, marketingtechnisch beeindruckende sogenannte "Big-Bang Releases" weniger nötig.
 
 #### Quellen:
@@ -95,7 +104,9 @@ Alle Projekte, die eine öffentliche API besitzen, können mit Hilfe von Semanti
 - Optional hinter Major.Minor.Patch können noch der Name des Pre-release und Metadaten über den Build angegeben werden, für Details siehe [SemVer-Spezifikation](https://semver.org/).
 
 Durch Vergleichen der alten mit der neuen  Versionsnummer können Nutzer also auf den ersten Blick besser einschätzen, ob durch ein Upgrade einer Dependency Änderungen am eigenen Projekt notwendig werden würden, um wieder die gewünschte Funktionalität herzustellen. Es können z.B. auch Paketmanager verwendet werden, um an Hand der Versionsnummer automatische Upgrades auf neue Versionen durchzuführen, die keine *breaking changes* enthalten. Dies wird immer wichtiger, gerade in der FLOSS-Welt, da auf möglichst modulare Software gesetzt wird und es tendenziell immer mehr Dependencies gibt.
+
 Außerdem können durch Semantic Versioning Nutzer dazu angehalten werden, ihr Projekt besser zu strukturieren, weil möglichst vermieden werden will, andauernd die Majornummer zu erhöhen. Denn wenn Nutzer sehen, dass eine neue *major version* releast wurde, kann die Erwartung entstehen, dass diese neue Version grundlegende neue Features und Verbesserungen mit sich bringt und nicht nur minimale rückwärtsinkompatible Änderungen an der API auf Grund von schlechter Vorausplanung des Projektes. Natürlich steht das nicht in der Spezifikation von Semantic Versioning, aber der Name *Major* und der Fakt, dass jede minimale Änderungen der API direkt offensichtlich sichtbar gemacht werden muss, können dazu beitragen, dass das Projekt sich genauer überlegt, wann *breaking changes* wirklich nötig sind.
+
 Allerdings ist vollkommener Verlass auf diese Versionsnummern offensichtlich nicht angebracht: Es kann sein, dass *breaking changes* übersehen wurden, oder auch dass die Majornummer auf Grund von überhöhter Vorsicht, Unsicherheit oder Missachtung erhöht wurde, obwohl gar kein *breaking change* vorliegt. Desweiteren besteht die Möglicheit, dass eine Nummer nach dem Schema *X.Y.Z* zwar nach Semantic Versioning aussieht, der Spezifikation aber gar nicht folgt, siehe Sentimental Versioning im folgenden Abschnitt.
 
 #### Weitere Versionierungspraktiken
