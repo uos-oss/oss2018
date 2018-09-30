@@ -4,9 +4,9 @@ Fallstricke bei der FLOSS-Nutzung- und Entwicklung
 *[Zur Themenübersicht](../../themen.md)*
 
 Ziel dieses Vortrags (und der zugehörigen Ausarbeitung) ist es, anhand von Beispielen
-aufzuzeigen, inwieweit bei der Nutzung und Entwicklung Fehler unterlaufen können.
+aufzuzeigen, inwieweit bei der Nutzung und Entwicklung von FOSS-Software Fehler unterlaufen können.
 
-Durch das bringen von Beispielen soll einerseits aufgezeigt werden, dass dies 
+Durch das Darlegen von Beispielen soll einerseits aufgezeigt werden, dass dies 
 keinesfalls Einzelfälle sind, andererseits lässt sich anhand dieser auch sehen,
 welche Fehler unbedingt vermieden werden sollten.
 
