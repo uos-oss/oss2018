@@ -172,7 +172,7 @@ Copyleft als Gegenstück zum Copyright verpflichtet dazu, jegliche Änderungen d
 <tr>
     <td> <b> Commercial use</b> </td>
     <td>Software kann in kommerziellem Umfeld benutzt werden. Das muss nicht automatisch bedeuten, dass sie in proprietärer Software benutzt werden darf. Dies wird über das Vorhanden- oder Nichtvorhandensein von Copyleft-Bedingungen geregelt.</td>
-<tr>
+</tr>
 <tr>
 	<td> <b> Distribution</b></td>
 	<td>Software kann von Anderen wiederverbreitet werden.</td>
@@ -225,7 +225,6 @@ Copyleft als Gegenstück zum Copyright verpflichtet dazu, jegliche Änderungen d
 </div>
 
 <a name="beispiele"/>
-<div class="test" markdown="1">
 
 ## Lizenzbeispiele
 
@@ -233,7 +232,6 @@ Im Folgenden werden einige Lizenzen vorgestellt. Die getroffene Auswahl soll beg
 
 Einen Überblick über alle gängigen Lizenzen ist auf der [webseite](https://spdx.org/licenses/) des SPDX-Projektes zu finden.
 
-</div>
 <a name="wtfpl"/>
 
 ### WTFPL
