@@ -1,7 +1,7 @@
 Open-Source-Softwareentwicklung
 ===============================
 
-*Ein Seminar der Universität Osnabrück im Sommersemester 2018.*
+*Ein abgeschlossenes Seminar der Universität Osnabrück im Sommersemester 2018.*
 
 - [FLOSS-Projekte](projekte.md)
 - [FLOSS-Themen](themen.md)
